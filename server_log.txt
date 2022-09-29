@@ -1,0 +1,4991 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:33:10] filterscripts = ""  (string)
+[00:33:10] 
+[00:33:10] Server Plugins
+[00:33:10] --------------
+[00:33:10]  Loading plugin: crashdetect
+[00:33:11]   CrashDetect plugin 4.19.4
+[00:33:11]   Loaded.
+[00:33:11]  Loading plugin: streamer
+[00:33:11] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[00:33:11]   Loaded.
+[00:33:11]  Loading plugin: sscanf
+[00:33:11] 
+
+[00:33:11]  ===============================
+
+[00:33:11]       sscanf plugin loaded.     
+
+[00:33:11]          Version:  2.8.3        
+
+[00:33:11]   (c) 2018 Alex "Y_Less" Cole  
+
+[00:33:11]  ===============================
+
+[00:33:11]   Loaded.
+[00:33:11]  Loading plugin: pawncmd
+[00:33:11] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[00:33:11]   Loaded.
+[00:33:11]  Loading plugin: mysql
+[00:33:11]   Failed.
+[00:33:11]  Loaded 4 plugins.
+
+[00:33:11] I couldn't load any gamemode scripts. Please verify your server.cfg
+[00:33:11] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:33:35] filterscripts = ""  (string)
+[00:33:35] 
+[00:33:35] Server Plugins
+[00:33:35] --------------
+[00:33:35]  Loading plugin: crashdetect
+[00:33:35]   CrashDetect plugin 4.19.4
+[00:33:35]   Loaded.
+[00:33:35]  Loading plugin: streamer
+[00:33:35] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[00:33:35]   Loaded.
+[00:33:35]  Loading plugin: sscanf
+[00:33:35] 
+
+[00:33:35]  ===============================
+
+[00:33:35]       sscanf plugin loaded.     
+
+[00:33:35]          Version:  2.8.3        
+
+[00:33:35]   (c) 2018 Alex "Y_Less" Cole  
+
+[00:33:35]  ===============================
+
+[00:33:35]   Loaded.
+[00:33:35]  Loading plugin: pawncmd
+[00:33:35] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[00:33:35]   Loaded.
+[00:33:35]  Loading plugin: mysql
+[00:33:35]   Failed.
+[00:33:35]  Loaded 4 plugins.
+
+[00:33:35] 
+[00:33:35] Filterscripts
+[00:33:35] ---------------
+[00:33:35]   Loaded 0 filterscripts.
+
+[00:33:35] 
+----------------------------------
+[00:33:35]  >> IME SERVERA : Treasure RolePlay
+[00:33:35]  >> VERZIJA SKRIPTE : x0.1
+[00:33:35]  >> DEVELOPER : kaizer
+[00:33:35]  >> FORUM : www.sa-mp.com
+[00:33:35] ----------------------------------
+
+[00:33:35] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:34:26] filterscripts = ""  (string)
+[00:34:26] 
+[00:34:26] Server Plugins
+[00:34:26] --------------
+[00:34:26]  Loading plugin: crashdetect
+[00:34:26]   CrashDetect plugin 4.19.4
+[00:34:26]   Loaded.
+[00:34:26]  Loading plugin: streamer
+[00:34:26] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[00:34:26]   Loaded.
+[00:34:26]  Loading plugin: sscanf
+[00:34:26] 
+
+[00:34:26]  ===============================
+
+[00:34:26]       sscanf plugin loaded.     
+
+[00:34:26]          Version:  2.8.3        
+
+[00:34:26]   (c) 2018 Alex "Y_Less" Cole  
+
+[00:34:26]  ===============================
+
+[00:34:26]   Loaded.
+[00:34:26]  Loading plugin: pawncmd
+[00:34:26] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[00:34:26]   Loaded.
+[00:34:26]  Loading plugin: mysql
+[00:34:26]  >> plugin.mysql: R41-4 successfully loaded.
+[00:34:26]   Loaded.
+[00:34:26]  Loaded 5 plugins.
+
+[00:34:26] 
+[00:34:26] Filterscripts
+[00:34:26] ---------------
+[00:34:26]   Loaded 0 filterscripts.
+
+[00:34:26] 
+----------------------------------
+[00:34:26]  >> IME SERVERA : Treasure RolePlay
+[00:34:26]  >> VERZIJA SKRIPTE : x0.1
+[00:34:26]  >> DEVELOPER : kaizer
+[00:34:26]  >> FORUM : www.sa-mp.com
+[00:34:26] ----------------------------------
+
+[00:34:26] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:31:29] filterscripts = ""  (string)
+[11:31:29] 
+[11:31:29] Server Plugins
+[11:31:29] --------------
+[11:31:29]  Loading plugin: crashdetect
+[11:31:30]   CrashDetect plugin 4.19.4
+[11:31:30]   Loaded.
+[11:31:30]  Loading plugin: streamer
+[11:31:30] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[11:31:30]   Loaded.
+[11:31:30]  Loading plugin: sscanf
+[11:31:30] 
+
+[11:31:30]  ===============================
+
+[11:31:30]       sscanf plugin loaded.     
+
+[11:31:30]          Version:  2.8.3        
+
+[11:31:30]   (c) 2018 Alex "Y_Less" Cole  
+
+[11:31:30]  ===============================
+
+[11:31:30]   Loaded.
+[11:31:30]  Loading plugin: pawncmd
+[11:31:30] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[11:31:30]   Loaded.
+[11:31:30]  Loading plugin: mysql
+[11:31:30]  >> plugin.mysql: R41-4 successfully loaded.
+[11:31:30]   Loaded.
+[11:31:30]  Loaded 5 plugins.
+
+[11:31:30] 
+[11:31:30] Filterscripts
+[11:31:30] ---------------
+[11:31:30]   Loaded 0 filterscripts.
+
+[11:31:30]  
+[11:31:30]  ======================================= 
+[11:31:30]  |                                     | 
+[11:31:30]  |    Optimising code, this may take   | 
+[11:31:30]  |        a little bit of time.        | 
+[11:31:30]  |                                     | 
+[11:31:30]  |            Please wait...           | 
+[11:31:30]  |                                     | 
+[11:31:30]  |=====================================| 
+[11:31:30]  |                                     | 
+[11:31:30]  | Note that these optimisations are   | 
+[11:31:30]  | designed to improve performance     | 
+[11:31:30]  | with the JIT plugin, which you are  | 
+[11:31:30]  | not currently using.  Get it here:  | 
+[11:31:30]  |                                     | 
+[11:31:30]  |      https://git.io/jit-plugin      | 
+[11:31:30]  |                                     | 
+[11:31:30]  ======================================= 
+[11:31:30]  
+[11:31:30]  
+[11:31:30]  
+[11:31:30]  
+[11:31:30]  ======================================= 
+[11:31:30]  |                                     | 
+[11:31:30]  |        YSI version 5.03.0689        | 
+[11:31:30]  |        By Alex "Y_Less" Cole        | 
+[11:31:30]  |                                     | 
+[11:31:30]  ======================================= 
+[11:31:30]  
+[11:31:30] 
+----------------------------------
+[11:31:30]  >> IME SERVERA : Treasure RolePlay
+[11:31:30]  >> VERZIJA SKRIPTE : T:RP - x0.1
+[11:31:30]  >> DEVELOPER : kaizer
+[11:31:30]  >> FORUM : www.sa-mp.com
+[11:31:30] ----------------------------------
+
+[11:31:30] Number of vehicle models: 0
+[11:32:04] [connection] 127.0.0.1:54886 requests connection cookie.
+[11:32:05] [connection] incoming connection: 127.0.0.1:54886 id: 0
+[11:32:05] [join] kaizer has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:32:45] filterscripts = ""  (string)
+[11:32:45] 
+[11:32:45] Server Plugins
+[11:32:45] --------------
+[11:32:45]  Loading plugin: crashdetect
+[11:32:45]   CrashDetect plugin 4.19.4
+[11:32:45]   Loaded.
+[11:32:45]  Loading plugin: streamer
+[11:32:45] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[11:32:45]   Loaded.
+[11:32:45]  Loading plugin: sscanf
+[11:32:45] 
+
+[11:32:45]  ===============================
+
+[11:32:45]       sscanf plugin loaded.     
+
+[11:32:45]          Version:  2.8.3        
+
+[11:32:45]   (c) 2018 Alex "Y_Less" Cole  
+
+[11:32:45]  ===============================
+
+[11:32:45]   Loaded.
+[11:32:45]  Loading plugin: pawncmd
+[11:32:45] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[11:32:45]   Loaded.
+[11:32:45]  Loading plugin: mysql
+[11:32:45]  >> plugin.mysql: R41-4 successfully loaded.
+[11:32:45]   Loaded.
+[11:32:45]  Loaded 5 plugins.
+
+[11:32:45] 
+[11:32:45] Filterscripts
+[11:32:45] ---------------
+[11:32:45]   Loaded 0 filterscripts.
+
+[11:32:45]  
+[11:32:45]  ======================================= 
+[11:32:45]  |                                     | 
+[11:32:45]  |    Optimising code, this may take   | 
+[11:32:45]  |        a little bit of time.        | 
+[11:32:45]  |                                     | 
+[11:32:45]  |            Please wait...           | 
+[11:32:45]  |                                     | 
+[11:32:45]  |=====================================| 
+[11:32:45]  |                                     | 
+[11:32:45]  | Note that these optimisations are   | 
+[11:32:45]  | designed to improve performance     | 
+[11:32:45]  | with the JIT plugin, which you are  | 
+[11:32:45]  | not currently using.  Get it here:  | 
+[11:32:45]  |                                     | 
+[11:32:45]  |      https://git.io/jit-plugin      | 
+[11:32:45]  |                                     | 
+[11:32:45]  ======================================= 
+[11:32:45]  
+[11:32:45]  
+[11:32:45]  
+[11:32:45]  
+[11:32:45]  ======================================= 
+[11:32:45]  |                                     | 
+[11:32:45]  |        YSI version 5.03.0689        | 
+[11:32:45]  |        By Alex "Y_Less" Cole        | 
+[11:32:45]  |                                     | 
+[11:32:45]  ======================================= 
+[11:32:45]  
+[11:32:45] 
+----------------------------------
+[11:32:45]  >> IME SERVERA : Treasure RolePlay
+[11:32:45]  >> VERZIJA SKRIPTE : T:RP - x0.1
+[11:32:45]  >> DEVELOPER : kaizer
+[11:32:45]  >> FORUM : www.sa-mp.com
+[11:32:45] ----------------------------------
+
+[11:32:45] Number of vehicle models: 0
+[11:32:57] [connection] 127.0.0.1:54592 requests connection cookie.
+[11:32:58] [connection] incoming connection: 127.0.0.1:54592 id: 0
+[11:32:58] [join] kaizer has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:33:19] filterscripts = ""  (string)
+[11:33:19] 
+[11:33:19] Server Plugins
+[11:33:19] --------------
+[11:33:19]  Loading plugin: crashdetect
+[11:33:19]   CrashDetect plugin 4.19.4
+[11:33:19]   Loaded.
+[11:33:19]  Loading plugin: streamer
+[11:33:19] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[11:33:19]   Loaded.
+[11:33:19]  Loading plugin: sscanf
+[11:33:19] 
+
+[11:33:19]  ===============================
+
+[11:33:19]       sscanf plugin loaded.     
+
+[11:33:19]          Version:  2.8.3        
+
+[11:33:19]   (c) 2018 Alex "Y_Less" Cole  
+
+[11:33:19]  ===============================
+
+[11:33:19]   Loaded.
+[11:33:19]  Loading plugin: pawncmd
+[11:33:19] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[11:33:19]   Loaded.
+[11:33:19]  Loading plugin: mysql
+[11:33:19]  >> plugin.mysql: R41-4 successfully loaded.
+[11:33:19]   Loaded.
+[11:33:19]  Loaded 5 plugins.
+
+[11:33:19] 
+[11:33:19] Filterscripts
+[11:33:19] ---------------
+[11:33:19]   Loaded 0 filterscripts.
+
+[11:33:19]  
+[11:33:19]  ======================================= 
+[11:33:19]  |                                     | 
+[11:33:19]  |    Optimising code, this may take   | 
+[11:33:19]  |        a little bit of time.        | 
+[11:33:19]  |                                     | 
+[11:33:19]  |            Please wait...           | 
+[11:33:19]  |                                     | 
+[11:33:19]  |=====================================| 
+[11:33:19]  |                                     | 
+[11:33:19]  | Note that these optimisations are   | 
+[11:33:19]  | designed to improve performance     | 
+[11:33:19]  | with the JIT plugin, which you are  | 
+[11:33:19]  | not currently using.  Get it here:  | 
+[11:33:19]  |                                     | 
+[11:33:19]  |      https://git.io/jit-plugin      | 
+[11:33:19]  |                                     | 
+[11:33:19]  ======================================= 
+[11:33:19]  
+[11:33:19]  
+[11:33:19]  
+[11:33:19]  
+[11:33:19]  ======================================= 
+[11:33:19]  |                                     | 
+[11:33:19]  |        YSI version 5.03.0689        | 
+[11:33:19]  |        By Alex "Y_Less" Cole        | 
+[11:33:19]  |                                     | 
+[11:33:19]  ======================================= 
+[11:33:19]  
+[11:33:19] 
+----------------------------------
+[11:33:19]  >> IME SERVERA : Treasure RolePlay
+[11:33:19]  >> VERZIJA SKRIPTE : T:RP - x0.1
+[11:33:19]  >> DEVELOPER : kaizer
+[11:33:19]  >> FORUM : www.sa-mp.com
+[11:33:19] ----------------------------------
+
+[11:33:19] Number of vehicle models: 0
+[11:33:31] [connection] 127.0.0.1:53427 requests connection cookie.
+[11:33:32] [connection] incoming connection: 127.0.0.1:53427 id: 0
+[11:33:32] [join] kaizer has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:35:54] filterscripts = ""  (string)
+[11:35:54] 
+[11:35:54] Server Plugins
+[11:35:54] --------------
+[11:35:54]  Loading plugin: crashdetect
+[11:35:54]   CrashDetect plugin 4.19.4
+[11:35:54]   Loaded.
+[11:35:54]  Loading plugin: streamer
+[11:35:54] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[11:35:54]   Loaded.
+[11:35:54]  Loading plugin: sscanf
+[11:35:54] 
+
+[11:35:54]  ===============================
+
+[11:35:54]       sscanf plugin loaded.     
+
+[11:35:54]          Version:  2.8.3        
+
+[11:35:54]   (c) 2018 Alex "Y_Less" Cole  
+
+[11:35:54]  ===============================
+
+[11:35:54]   Loaded.
+[11:35:54]  Loading plugin: pawncmd
+[11:35:54] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[11:35:54]   Loaded.
+[11:35:54]  Loading plugin: mysql
+[11:35:54]  >> plugin.mysql: R41-4 successfully loaded.
+[11:35:54]   Loaded.
+[11:35:54]  Loaded 5 plugins.
+
+[11:35:54] 
+[11:35:54] Filterscripts
+[11:35:54] ---------------
+[11:35:54]   Loaded 0 filterscripts.
+
+[11:35:54]  
+[11:35:54]  ======================================= 
+[11:35:54]  |                                     | 
+[11:35:54]  |    Optimising code, this may take   | 
+[11:35:54]  |        a little bit of time.        | 
+[11:35:54]  |                                     | 
+[11:35:54]  |            Please wait...           | 
+[11:35:54]  |                                     | 
+[11:35:54]  |=====================================| 
+[11:35:54]  |                                     | 
+[11:35:54]  | Note that these optimisations are   | 
+[11:35:54]  | designed to improve performance     | 
+[11:35:54]  | with the JIT plugin, which you are  | 
+[11:35:54]  | not currently using.  Get it here:  | 
+[11:35:54]  |                                     | 
+[11:35:54]  |      https://git.io/jit-plugin      | 
+[11:35:54]  |                                     | 
+[11:35:54]  ======================================= 
+[11:35:54]  
+[11:35:55]  
+[11:35:55]  
+[11:35:55]  
+[11:35:55]  ======================================= 
+[11:35:55]  |                                     | 
+[11:35:55]  |        YSI version 5.03.0689        | 
+[11:35:55]  |        By Alex "Y_Less" Cole        | 
+[11:35:55]  |                                     | 
+[11:35:55]  ======================================= 
+[11:35:55]  
+[11:35:55] 
+----------------------------------
+[11:35:55]  >> IME SERVERA : Treasure RolePlay
+[11:35:55]  >> VERZIJA SKRIPTE : T:RP - x0.1
+[11:35:55]  >> DEVELOPER : kaizer
+[11:35:55]  >> FORUM : www.sa-mp.com
+[11:35:55] ----------------------------------
+
+[11:35:55] Number of vehicle models: 0
+[11:36:05] [connection] 127.0.0.1:64146 requests connection cookie.
+[11:36:06] [connection] incoming connection: 127.0.0.1:64146 id: 0
+[11:36:06] [join] kaizer has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:37:46] filterscripts = ""  (string)
+[11:37:46] 
+[11:37:46] Server Plugins
+[11:37:46] --------------
+[11:37:46]  Loading plugin: crashdetect
+[11:37:46]   CrashDetect plugin 4.19.4
+[11:37:46]   Loaded.
+[11:37:46]  Loading plugin: streamer
+[11:37:46] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[11:37:46]   Loaded.
+[11:37:46]  Loading plugin: sscanf
+[11:37:46] 
+
+[11:37:46]  ===============================
+
+[11:37:46]       sscanf plugin loaded.     
+
+[11:37:46]          Version:  2.8.3        
+
+[11:37:46]   (c) 2018 Alex "Y_Less" Cole  
+
+[11:37:46]  ===============================
+
+[11:37:46]   Loaded.
+[11:37:46]  Loading plugin: pawncmd
+[11:37:46] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[11:37:46]   Loaded.
+[11:37:46]  Loading plugin: mysql
+[11:37:46]  >> plugin.mysql: R41-4 successfully loaded.
+[11:37:46]   Loaded.
+[11:37:46]  Loaded 5 plugins.
+
+[11:37:46] 
+[11:37:46] Filterscripts
+[11:37:46] ---------------
+[11:37:46]   Loaded 0 filterscripts.
+
+[11:37:46]  
+[11:37:46]  ======================================= 
+[11:37:46]  |                                     | 
+[11:37:46]  |    Optimising code, this may take   | 
+[11:37:46]  |        a little bit of time.        | 
+[11:37:46]  |                                     | 
+[11:37:46]  |            Please wait...           | 
+[11:37:46]  |                                     | 
+[11:37:46]  |=====================================| 
+[11:37:46]  |                                     | 
+[11:37:46]  | Note that these optimisations are   | 
+[11:37:46]  | designed to improve performance     | 
+[11:37:46]  | with the JIT plugin, which you are  | 
+[11:37:46]  | not currently using.  Get it here:  | 
+[11:37:46]  |                                     | 
+[11:37:46]  |      https://git.io/jit-plugin      | 
+[11:37:46]  |                                     | 
+[11:37:46]  ======================================= 
+[11:37:46]  
+[11:37:46]  
+[11:37:46]  
+[11:37:46]  
+[11:37:46]  ======================================= 
+[11:37:46]  |                                     | 
+[11:37:46]  |        YSI version 5.03.0689        | 
+[11:37:46]  |        By Alex "Y_Less" Cole        | 
+[11:37:46]  |                                     | 
+[11:37:46]  ======================================= 
+[11:37:46]  
+[11:37:46] 
+----------------------------------
+[11:37:46]  >> IME SERVERA : Treasure RolePlay
+[11:37:46]  >> VERZIJA SKRIPTE : T:RP - x0.1
+[11:37:46]  >> DEVELOPER : kaizer
+[11:37:46]  >> FORUM : www.sa-mp.com
+[11:37:46] ----------------------------------
+
+[11:37:46] Number of vehicle models: 0
+[11:37:58] [connection] 127.0.0.1:56945 requests connection cookie.
+[11:37:59] [connection] incoming connection: 127.0.0.1:56945 id: 0
+[11:37:59] [join] kaizer has joined the server (0:127.0.0.1)
+[11:39:37] [part] kaizer has left the server (0:1)
+[11:40:08] [connection] 127.0.0.1:49464 requests connection cookie.
+[11:40:09] [connection] incoming connection: 127.0.0.1:49464 id: 0
+[11:40:10] [join] kaizer has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:57:10] filterscripts = ""  (string)
+[11:57:10] 
+[11:57:10] Server Plugins
+[11:57:10] --------------
+[11:57:10]  Loading plugin: crashdetect
+[11:57:10]   CrashDetect plugin 4.19.4
+[11:57:10]   Loaded.
+[11:57:10]  Loading plugin: streamer
+[11:57:10] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[11:57:10]   Loaded.
+[11:57:10]  Loading plugin: sscanf
+[11:57:10] 
+
+[11:57:10]  ===============================
+
+[11:57:10]       sscanf plugin loaded.     
+
+[11:57:10]          Version:  2.8.3        
+
+[11:57:10]   (c) 2018 Alex "Y_Less" Cole  
+
+[11:57:10]  ===============================
+
+[11:57:10]   Loaded.
+[11:57:10]  Loading plugin: pawncmd
+[11:57:10] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[11:57:10]   Loaded.
+[11:57:10]  Loading plugin: mysql
+[11:57:10]  >> plugin.mysql: R41-4 successfully loaded.
+[11:57:10]   Loaded.
+[11:57:10]  Loaded 5 plugins.
+
+[11:57:10] 
+[11:57:10] Filterscripts
+[11:57:10] ---------------
+[11:57:10]   Loaded 0 filterscripts.
+
+[11:57:10]  
+[11:57:10]  ======================================= 
+[11:57:10]  |                                     | 
+[11:57:10]  |    Optimising code, this may take   | 
+[11:57:10]  |        a little bit of time.        | 
+[11:57:10]  |                                     | 
+[11:57:10]  |            Please wait...           | 
+[11:57:10]  |                                     | 
+[11:57:10]  |=====================================| 
+[11:57:10]  |                                     | 
+[11:57:10]  | Note that these optimisations are   | 
+[11:57:10]  | designed to improve performance     | 
+[11:57:10]  | with the JIT plugin, which you are  | 
+[11:57:10]  | not currently using.  Get it here:  | 
+[11:57:10]  |                                     | 
+[11:57:10]  |      https://git.io/jit-plugin      | 
+[11:57:10]  |                                     | 
+[11:57:10]  ======================================= 
+[11:57:10]  
+[11:57:10]  
+[11:57:10]  
+[11:57:10]  
+[11:57:10]  ======================================= 
+[11:57:10]  |                                     | 
+[11:57:10]  |        YSI version 5.03.0689        | 
+[11:57:10]  |        By Alex "Y_Less" Cole        | 
+[11:57:10]  |                                     | 
+[11:57:10]  ======================================= 
+[11:57:10]  
+[11:57:10] 
+----------------------------------
+[11:57:10]  >> IME SERVERA : Treasure RolePlay
+[11:57:10]  >> VERZIJA SKRIPTE : T:RP - x0.1
+[11:57:10]  >> DEVELOPER : kaizer
+[11:57:10]  >> FORUM : www.sa-mp.com
+[11:57:10] ----------------------------------
+
+[11:57:10] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:57:45] filterscripts = ""  (string)
+[11:57:45] 
+[11:57:45] Server Plugins
+[11:57:45] --------------
+[11:57:45]  Loading plugin: crashdetect
+[11:57:45]   CrashDetect plugin 4.19.4
+[11:57:45]   Loaded.
+[11:57:45]  Loading plugin: streamer
+[11:57:45] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[11:57:45]   Loaded.
+[11:57:45]  Loading plugin: sscanf
+[11:57:45] 
+
+[11:57:45]  ===============================
+
+[11:57:45]       sscanf plugin loaded.     
+
+[11:57:45]          Version:  2.8.3        
+
+[11:57:45]   (c) 2018 Alex "Y_Less" Cole  
+
+[11:57:45]  ===============================
+
+[11:57:45]   Loaded.
+[11:57:45]  Loading plugin: pawncmd
+[11:57:45] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[11:57:45]   Loaded.
+[11:57:45]  Loading plugin: mysql
+[11:57:45]  >> plugin.mysql: R41-4 successfully loaded.
+[11:57:45]   Loaded.
+[11:57:45]  Loaded 5 plugins.
+
+[11:57:45] 
+[11:57:45] Filterscripts
+[11:57:45] ---------------
+[11:57:45]   Loaded 0 filterscripts.
+
+[11:57:45]  
+[11:57:45]  ======================================= 
+[11:57:45]  |                                     | 
+[11:57:45]  |    Optimising code, this may take   | 
+[11:57:45]  |        a little bit of time.        | 
+[11:57:45]  |                                     | 
+[11:57:45]  |            Please wait...           | 
+[11:57:45]  |                                     | 
+[11:57:45]  |=====================================| 
+[11:57:45]  |                                     | 
+[11:57:45]  | Note that these optimisations are   | 
+[11:57:45]  | designed to improve performance     | 
+[11:57:45]  | with the JIT plugin, which you are  | 
+[11:57:45]  | not currently using.  Get it here:  | 
+[11:57:45]  |                                     | 
+[11:57:45]  |      https://git.io/jit-plugin      | 
+[11:57:45]  |                                     | 
+[11:57:45]  ======================================= 
+[11:57:45]  
+[11:57:45]  
+[11:57:45]  
+[11:57:45]  
+[11:57:45]  ======================================= 
+[11:57:45]  |                                     | 
+[11:57:45]  |        YSI version 5.03.0689        | 
+[11:57:45]  |        By Alex "Y_Less" Cole        | 
+[11:57:45]  |                                     | 
+[11:57:45]  ======================================= 
+[11:57:45]  
+[11:57:45] Mysql >> Uspjesno smo se konektovali na SQL server.
+[11:57:45] 
+----------------------------------
+[11:57:45]  >> IME SERVERA : Treasure RolePlay
+[11:57:45]  >> VERZIJA SKRIPTE : T:RP - x0.1
+[11:57:45]  >> DEVELOPER : kaizer
+[11:57:45]  >> FORUM : www.sa-mp.com
+[11:57:45] ----------------------------------
+
+[11:57:45] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:03:38] filterscripts = ""  (string)
+[12:03:38] 
+[12:03:38] Server Plugins
+[12:03:38] --------------
+[12:03:38]  Loading plugin: crashdetect
+[12:03:38]   CrashDetect plugin 4.19.4
+[12:03:38]   Loaded.
+[12:03:38]  Loading plugin: streamer
+[12:03:38] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[12:03:38]   Loaded.
+[12:03:38]  Loading plugin: sscanf
+[12:03:38] 
+
+[12:03:38]  ===============================
+
+[12:03:38]       sscanf plugin loaded.     
+
+[12:03:38]          Version:  2.8.3        
+
+[12:03:38]   (c) 2018 Alex "Y_Less" Cole  
+
+[12:03:38]  ===============================
+
+[12:03:38]   Loaded.
+[12:03:38]  Loading plugin: pawncmd
+[12:03:38] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[12:03:38]   Loaded.
+[12:03:38]  Loading plugin: mysql
+[12:03:38]  >> plugin.mysql: R41-4 successfully loaded.
+[12:03:38]   Loaded.
+[12:03:38]  Loaded 5 plugins.
+
+[12:03:38] 
+[12:03:38] Filterscripts
+[12:03:38] ---------------
+[12:03:38]   Loaded 0 filterscripts.
+
+[12:03:38]  
+[12:03:38]  ======================================= 
+[12:03:38]  |                                     | 
+[12:03:38]  |    Optimising code, this may take   | 
+[12:03:38]  |        a little bit of time.        | 
+[12:03:38]  |                                     | 
+[12:03:38]  |            Please wait...           | 
+[12:03:38]  |                                     | 
+[12:03:38]  |=====================================| 
+[12:03:38]  |                                     | 
+[12:03:38]  | Note that these optimisations are   | 
+[12:03:38]  | designed to improve performance     | 
+[12:03:38]  | with the JIT plugin, which you are  | 
+[12:03:38]  | not currently using.  Get it here:  | 
+[12:03:38]  |                                     | 
+[12:03:38]  |      https://git.io/jit-plugin      | 
+[12:03:38]  |                                     | 
+[12:03:38]  ======================================= 
+[12:03:38]  
+[12:03:38]  
+[12:03:38]  
+[12:03:38]  
+[12:03:38]  ======================================= 
+[12:03:38]  |                                     | 
+[12:03:38]  |        YSI version 5.03.0689        | 
+[12:03:38]  |        By Alex "Y_Less" Cole        | 
+[12:03:38]  |                                     | 
+[12:03:38]  ======================================= 
+[12:03:38]  
+[12:03:38] MySQL >> Uspjesno smo se konektovali na SQL server.
+[12:03:38] 
+----------------------------------
+[12:03:38]  >> IME SERVERA : Treasure RolePlay
+[12:03:38]  >> VERZIJA SKRIPTE : T:RP - x0.1
+[12:03:38]  >> DEVELOPER : kaizer
+[12:03:38]  >> FORUM : www.sa-mp.com
+[12:03:38] ----------------------------------
+
+[12:03:38] Number of vehicle models: 0
+[12:03:52] [connection] 127.0.0.1:51364 requests connection cookie.
+[12:03:53] [connection] incoming connection: 127.0.0.1:51364 id: 0
+[12:03:53] [join] kaizer has joined the server (0:127.0.0.1)
+[12:03:58] [part] kaizer has left the server (0:1)
+[12:04:23] [connection] 127.0.0.1:64896 requests connection cookie.
+[12:04:24] [connection] incoming connection: 127.0.0.1:64896 id: 0
+[12:04:24] [join] kaizer has joined the server (0:127.0.0.1)
+[12:04:47] [part] kaizer has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:08:50] filterscripts = ""  (string)
+[12:08:50] 
+[12:08:50] Server Plugins
+[12:08:50] --------------
+[12:08:50]  Loading plugin: crashdetect
+[12:08:50]   CrashDetect plugin 4.19.4
+[12:08:50]   Loaded.
+[12:08:50]  Loading plugin: streamer
+[12:08:50] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[12:08:50]   Loaded.
+[12:08:50]  Loading plugin: sscanf
+[12:08:50] 
+
+[12:08:50]  ===============================
+
+[12:08:50]       sscanf plugin loaded.     
+
+[12:08:50]          Version:  2.8.3        
+
+[12:08:50]   (c) 2018 Alex "Y_Less" Cole  
+
+[12:08:50]  ===============================
+
+[12:08:50]   Loaded.
+[12:08:50]  Loading plugin: pawncmd
+[12:08:50] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[12:08:50]   Loaded.
+[12:08:50]  Loading plugin: mysql
+[12:08:50]  >> plugin.mysql: R41-4 successfully loaded.
+[12:08:50]   Loaded.
+[12:08:50]  Loaded 5 plugins.
+
+[12:08:50] 
+[12:08:50] Filterscripts
+[12:08:50] ---------------
+[12:08:50]   Loaded 0 filterscripts.
+
+[12:08:50]  
+[12:08:50]  ======================================= 
+[12:08:50]  |                                     | 
+[12:08:50]  |    Optimising code, this may take   | 
+[12:08:50]  |        a little bit of time.        | 
+[12:08:50]  |                                     | 
+[12:08:50]  |            Please wait...           | 
+[12:08:50]  |                                     | 
+[12:08:50]  |=====================================| 
+[12:08:50]  |                                     | 
+[12:08:50]  | Note that these optimisations are   | 
+[12:08:50]  | designed to improve performance     | 
+[12:08:50]  | with the JIT plugin, which you are  | 
+[12:08:50]  | not currently using.  Get it here:  | 
+[12:08:50]  |                                     | 
+[12:08:50]  |      https://git.io/jit-plugin      | 
+[12:08:50]  |                                     | 
+[12:08:50]  ======================================= 
+[12:08:50]  
+[12:08:50]  
+[12:08:50]  
+[12:08:50]  
+[12:08:50]  ======================================= 
+[12:08:50]  |                                     | 
+[12:08:50]  |        YSI version 5.03.0689        | 
+[12:08:50]  |        By Alex "Y_Less" Cole        | 
+[12:08:50]  |                                     | 
+[12:08:50]  ======================================= 
+[12:08:50]  
+[12:08:50] MySQL >> Uspjesno smo se konektovali na SQL server.
+[12:08:50] 
+----------------------------------
+[12:08:50]  >> IME SERVERA : Treasure RolePlay
+[12:08:50]  >> VERZIJA SKRIPTE : T:RP - x0.1
+[12:08:50]  >> DEVELOPER : kaizer
+[12:08:50]  >> FORUM : www.sa-mp.com
+[12:08:50] ----------------------------------
+
+[12:08:50] Number of vehicle models: 0
+[12:09:11] [connection] 127.0.0.1:50023 requests connection cookie.
+[12:09:12] [connection] incoming connection: 127.0.0.1:50023 id: 0
+[12:09:12] [join] kaizer has joined the server (0:127.0.0.1)
+[12:09:51] [part] kaizer has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:12:00] filterscripts = ""  (string)
+[12:12:00] 
+[12:12:00] Server Plugins
+[12:12:00] --------------
+[12:12:00]  Loading plugin: crashdetect
+[12:12:00]   CrashDetect plugin 4.19.4
+[12:12:00]   Loaded.
+[12:12:00]  Loading plugin: streamer
+[12:12:00] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[12:12:00]   Loaded.
+[12:12:00]  Loading plugin: sscanf
+[12:12:00] 
+
+[12:12:00]  ===============================
+
+[12:12:00]       sscanf plugin loaded.     
+
+[12:12:00]          Version:  2.8.3        
+
+[12:12:00]   (c) 2018 Alex "Y_Less" Cole  
+
+[12:12:00]  ===============================
+
+[12:12:00]   Loaded.
+[12:12:00]  Loading plugin: pawncmd
+[12:12:00] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[12:12:00]   Loaded.
+[12:12:00]  Loading plugin: mysql
+[12:12:00]  >> plugin.mysql: R41-4 successfully loaded.
+[12:12:00]   Loaded.
+[12:12:00]  Loaded 5 plugins.
+
+[12:12:00] 
+[12:12:00] Filterscripts
+[12:12:00] ---------------
+[12:12:00]   Loaded 0 filterscripts.
+
+[12:12:00]  
+[12:12:00]  ======================================= 
+[12:12:00]  |                                     | 
+[12:12:00]  |    Optimising code, this may take   | 
+[12:12:00]  |        a little bit of time.        | 
+[12:12:00]  |                                     | 
+[12:12:00]  |            Please wait...           | 
+[12:12:00]  |                                     | 
+[12:12:00]  |=====================================| 
+[12:12:00]  |                                     | 
+[12:12:00]  | Note that these optimisations are   | 
+[12:12:00]  | designed to improve performance     | 
+[12:12:00]  | with the JIT plugin, which you are  | 
+[12:12:00]  | not currently using.  Get it here:  | 
+[12:12:00]  |                                     | 
+[12:12:00]  |      https://git.io/jit-plugin      | 
+[12:12:00]  |                                     | 
+[12:12:00]  ======================================= 
+[12:12:00]  
+[12:12:00]  
+[12:12:00]  
+[12:12:00]  
+[12:12:00]  ======================================= 
+[12:12:00]  |                                     | 
+[12:12:00]  |        YSI version 5.03.0689        | 
+[12:12:00]  |        By Alex "Y_Less" Cole        | 
+[12:12:00]  |                                     | 
+[12:12:00]  ======================================= 
+[12:12:00]  
+[12:12:00] MySQL >> Uspjesno smo se konektovali na SQL server.
+[12:12:00] 
+----------------------------------
+[12:12:00]  >> IME SERVERA : Treasure RolePlay
+[12:12:00]  >> VERZIJA SKRIPTE : T:RP - x0.1
+[12:12:00]  >> DEVELOPER : kaizer
+[12:12:00]  >> FORUM : www.sa-mp.com
+[12:12:00] ----------------------------------
+
+[12:12:00] Number of vehicle models: 0
+[12:12:22] [connection] 127.0.0.1:49157 requests connection cookie.
+[12:12:23] [connection] incoming connection: 127.0.0.1:49157 id: 0
+[12:12:23] [join] kaizer has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:14:19] filterscripts = ""  (string)
+[12:14:19] 
+[12:14:19] Server Plugins
+[12:14:19] --------------
+[12:14:19]  Loading plugin: crashdetect
+[12:14:19]   CrashDetect plugin 4.19.4
+[12:14:19]   Loaded.
+[12:14:19]  Loading plugin: streamer
+[12:14:19] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[12:14:19]   Loaded.
+[12:14:19]  Loading plugin: sscanf
+[12:14:19] 
+
+[12:14:19]  ===============================
+
+[12:14:19]       sscanf plugin loaded.     
+
+[12:14:19]          Version:  2.8.3        
+
+[12:14:19]   (c) 2018 Alex "Y_Less" Cole  
+
+[12:14:19]  ===============================
+
+[12:14:19]   Loaded.
+[12:14:19]  Loading plugin: pawncmd
+[12:14:19] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[12:14:19]   Loaded.
+[12:14:19]  Loading plugin: mysql
+[12:14:19]  >> plugin.mysql: R41-4 successfully loaded.
+[12:14:19]   Loaded.
+[12:14:19]  Loaded 5 plugins.
+
+[12:14:19] 
+[12:14:19] Filterscripts
+[12:14:19] ---------------
+[12:14:19]   Loaded 0 filterscripts.
+
+[12:14:19]  
+[12:14:19]  ======================================= 
+[12:14:19]  |                                     | 
+[12:14:19]  |    Optimising code, this may take   | 
+[12:14:19]  |        a little bit of time.        | 
+[12:14:19]  |                                     | 
+[12:14:19]  |            Please wait...           | 
+[12:14:19]  |                                     | 
+[12:14:19]  |=====================================| 
+[12:14:19]  |                                     | 
+[12:14:19]  | Note that these optimisations are   | 
+[12:14:19]  | designed to improve performance     | 
+[12:14:19]  | with the JIT plugin, which you are  | 
+[12:14:19]  | not currently using.  Get it here:  | 
+[12:14:19]  |                                     | 
+[12:14:19]  |      https://git.io/jit-plugin      | 
+[12:14:19]  |                                     | 
+[12:14:19]  ======================================= 
+[12:14:19]  
+[12:14:19]  
+[12:14:19]  
+[12:14:19]  
+[12:14:19]  ======================================= 
+[12:14:19]  |                                     | 
+[12:14:19]  |        YSI version 5.03.0689        | 
+[12:14:19]  |        By Alex "Y_Less" Cole        | 
+[12:14:19]  |                                     | 
+[12:14:19]  ======================================= 
+[12:14:19]  
+[12:14:19] MySQL >> Uspjesno smo se konektovali na SQL server.
+[12:14:19] 
+----------------------------------
+[12:14:19]  >> IME SERVERA : Treasure RolePlay
+[12:14:19]  >> VERZIJA SKRIPTE : T:RP - x0.1
+[12:14:19]  >> DEVELOPER : kaizer
+[12:14:19]  >> FORUM : www.sa-mp.com
+[12:14:19] ----------------------------------
+
+[12:14:19] Number of vehicle models: 0
+[12:14:39] [connection] 127.0.0.1:64554 requests connection cookie.
+[12:14:40] [connection] incoming connection: 127.0.0.1:64554 id: 0
+[12:14:40] [join] kaizer has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:59:39] filterscripts = ""  (string)
+[17:59:39] 
+[17:59:39] Server Plugins
+[17:59:39] --------------
+[17:59:39]  Loading plugin: crashdetect
+[17:59:39]   CrashDetect plugin 4.19.4
+[17:59:39]   Loaded.
+[17:59:39]  Loading plugin: streamer
+[17:59:39] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[17:59:39]   Loaded.
+[17:59:39]  Loading plugin: sscanf
+[17:59:39] 
+
+[17:59:39]  ===============================
+
+[17:59:39]       sscanf plugin loaded.     
+
+[17:59:39]          Version:  2.8.3        
+
+[17:59:39]   (c) 2018 Alex "Y_Less" Cole  
+
+[17:59:39]  ===============================
+
+[17:59:39]   Loaded.
+[17:59:39]  Loading plugin: pawncmd
+[17:59:39] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[17:59:39]   Loaded.
+[17:59:39]  Loading plugin: mysql
+[17:59:39]  >> plugin.mysql: R41-4 successfully loaded.
+[17:59:39]   Loaded.
+[17:59:39]  Loaded 5 plugins.
+
+[17:59:39] 
+[17:59:39] Filterscripts
+[17:59:39] ---------------
+[17:59:39]   Loaded 0 filterscripts.
+
+[17:59:39]  
+[17:59:39]  ======================================= 
+[17:59:39]  |                                     | 
+[17:59:39]  |    Optimising code, this may take   | 
+[17:59:39]  |        a little bit of time.        | 
+[17:59:39]  |                                     | 
+[17:59:39]  |            Please wait...           | 
+[17:59:39]  |                                     | 
+[17:59:39]  |=====================================| 
+[17:59:39]  |                                     | 
+[17:59:39]  | Note that these optimisations are   | 
+[17:59:39]  | designed to improve performance     | 
+[17:59:39]  | with the JIT plugin, which you are  | 
+[17:59:39]  | not currently using.  Get it here:  | 
+[17:59:39]  |                                     | 
+[17:59:39]  |      https://git.io/jit-plugin      | 
+[17:59:39]  |                                     | 
+[17:59:39]  ======================================= 
+[17:59:39]  
+[17:59:39]  
+[17:59:39]  
+[17:59:39]  
+[17:59:39]  ======================================= 
+[17:59:39]  |                                     | 
+[17:59:39]  |        YSI version 5.03.0689        | 
+[17:59:39]  |        By Alex "Y_Less" Cole        | 
+[17:59:39]  |                                     | 
+[17:59:39]  ======================================= 
+[17:59:39]  
+[17:59:39] MySQL >> Uspjesno smo se konektovali na SQL server.
+[17:59:39] 
+----------------------------------
+[17:59:39]  >> IME SERVERA : Treasure RolePlay
+[17:59:39]  >> VERZIJA SKRIPTE : T:RP - x0.1
+[17:59:39]  >> DEVELOPER : kaizer
+[17:59:39]  >> FORUM : www.sa-mp.com
+[17:59:39] ----------------------------------
+
+[17:59:39] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:16:55] filterscripts = ""  (string)
+[23:16:55] 
+[23:16:55] Server Plugins
+[23:16:55] --------------
+[23:16:55]  Loading plugin: crashdetect
+[23:16:55]   CrashDetect plugin 4.19.4
+[23:16:55]   Loaded.
+[23:16:55]  Loading plugin: streamer
+[23:16:55] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[23:16:55]   Loaded.
+[23:16:55]  Loading plugin: sscanf
+[23:16:55] 
+
+[23:16:55]  ===============================
+
+[23:16:55]       sscanf plugin loaded.     
+
+[23:16:55]          Version:  2.8.3        
+
+[23:16:55]   (c) 2018 Alex "Y_Less" Cole  
+
+[23:16:55]  ===============================
+
+[23:16:55]   Loaded.
+[23:16:55]  Loading plugin: pawncmd
+[23:16:55] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[23:16:55]   Loaded.
+[23:16:55]  Loading plugin: mysql
+[23:16:56]  >> plugin.mysql: R41-4 successfully loaded.
+[23:16:56]   Loaded.
+[23:16:56]  Loaded 5 plugins.
+
+[23:16:56] 
+[23:16:56] Filterscripts
+[23:16:56] ---------------
+[23:16:56]   Loaded 0 filterscripts.
+
+[23:16:56]  
+[23:16:56]  ======================================= 
+[23:16:56]  |                                     | 
+[23:16:56]  |    Optimising code, this may take   | 
+[23:16:56]  |        a little bit of time.        | 
+[23:16:56]  |                                     | 
+[23:16:56]  |            Please wait...           | 
+[23:16:56]  |                                     | 
+[23:16:56]  |=====================================| 
+[23:16:56]  |                                     | 
+[23:16:56]  | Note that these optimisations are   | 
+[23:16:56]  | designed to improve performance     | 
+[23:16:56]  | with the JIT plugin, which you are  | 
+[23:16:56]  | not currently using.  Get it here:  | 
+[23:16:56]  |                                     | 
+[23:16:56]  |      https://git.io/jit-plugin      | 
+[23:16:56]  |                                     | 
+[23:16:56]  ======================================= 
+[23:16:56]  
+[23:16:56]  
+[23:16:56]  
+[23:16:56]  
+[23:16:56]  ======================================= 
+[23:16:56]  |                                     | 
+[23:16:56]  |        YSI version 5.03.0689        | 
+[23:16:56]  |        By Alex "Y_Less" Cole        | 
+[23:16:56]  |                                     | 
+[23:16:56]  ======================================= 
+[23:16:56]  
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:17:36] filterscripts = ""  (string)
+[23:17:36] 
+[23:17:36] Server Plugins
+[23:17:36] --------------
+[23:17:36]  Loading plugin: crashdetect
+[23:17:36]   CrashDetect plugin 4.19.4
+[23:17:36]   Loaded.
+[23:17:36]  Loading plugin: streamer
+[23:17:36] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[23:17:36]   Loaded.
+[23:17:36]  Loading plugin: sscanf
+[23:17:36] 
+
+[23:17:36]  ===============================
+
+[23:17:36]       sscanf plugin loaded.     
+
+[23:17:36]          Version:  2.8.3        
+
+[23:17:36]   (c) 2018 Alex "Y_Less" Cole  
+
+[23:17:36]  ===============================
+
+[23:17:36]   Loaded.
+[23:17:36]  Loading plugin: pawncmd
+[23:17:36] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[23:17:36]   Loaded.
+[23:17:36]  Loading plugin: mysql
+[23:17:36]  >> plugin.mysql: R41-4 successfully loaded.
+[23:17:36]   Loaded.
+[23:17:36]  Loaded 5 plugins.
+
+[23:17:36] 
+[23:17:36] Filterscripts
+[23:17:36] ---------------
+[23:17:36]   Loaded 0 filterscripts.
+
+[23:17:36]  
+[23:17:36]  ======================================= 
+[23:17:36]  |                                     | 
+[23:17:36]  |    Optimising code, this may take   | 
+[23:17:36]  |        a little bit of time.        | 
+[23:17:36]  |                                     | 
+[23:17:36]  |            Please wait...           | 
+[23:17:36]  |                                     | 
+[23:17:36]  |=====================================| 
+[23:17:36]  |                                     | 
+[23:17:36]  | Note that these optimisations are   | 
+[23:17:36]  | designed to improve performance     | 
+[23:17:36]  | with the JIT plugin, which you are  | 
+[23:17:36]  | not currently using.  Get it here:  | 
+[23:17:36]  |                                     | 
+[23:17:36]  |      https://git.io/jit-plugin      | 
+[23:17:36]  |                                     | 
+[23:17:36]  ======================================= 
+[23:17:36]  
+[23:17:36]  
+[23:17:36]  
+[23:17:36]  
+[23:17:36]  ======================================= 
+[23:17:36]  |                                     | 
+[23:17:36]  |        YSI version 5.03.0689        | 
+[23:17:36]  |        By Alex "Y_Less" Cole        | 
+[23:17:36]  |                                     | 
+[23:17:36]  ======================================= 
+[23:17:36]  
+[23:17:36] MySQL >> Uspjesno smo se konektovali na SQL server.
+[23:17:36] 
+----------------------------------
+[23:17:36]  >> IME SERVERA : Treasure RolePlay
+[23:17:36]  >> VERZIJA SKRIPTE : T:RP - x0.1
+[23:17:36]  >> DEVELOPER : kaizer
+[23:17:36]  >> FORUM : www.sa-mp.com
+[23:17:36] ----------------------------------
+
+[23:17:36] Number of vehicle models: 0
+[23:20:05] [connection] 127.0.0.1:60322 requests connection cookie.
+[23:20:06] [connection] incoming connection: 127.0.0.1:60322 id: 0
+[23:20:07] [join] kaizer has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:20:33] filterscripts = ""  (string)
+[23:20:33] 
+[23:20:33] Server Plugins
+[23:20:33] --------------
+[23:20:33]  Loading plugin: crashdetect
+[23:20:33]   CrashDetect plugin 4.19.4
+[23:20:33]   Loaded.
+[23:20:33]  Loading plugin: streamer
+[23:20:33] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[23:20:33]   Loaded.
+[23:20:33]  Loading plugin: sscanf
+[23:20:33] 
+
+[23:20:33]  ===============================
+
+[23:20:33]       sscanf plugin loaded.     
+
+[23:20:33]          Version:  2.8.3        
+
+[23:20:33]   (c) 2018 Alex "Y_Less" Cole  
+
+[23:20:33]  ===============================
+
+[23:20:33]   Loaded.
+[23:20:33]  Loading plugin: pawncmd
+[23:20:33] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[23:20:33]   Loaded.
+[23:20:33]  Loading plugin: mysql
+[23:20:33]  >> plugin.mysql: R41-4 successfully loaded.
+[23:20:33]   Loaded.
+[23:20:33]  Loaded 5 plugins.
+
+[23:20:33] 
+[23:20:33] Filterscripts
+[23:20:33] ---------------
+[23:20:33]   Loaded 0 filterscripts.
+
+[23:20:33]  
+[23:20:33]  ======================================= 
+[23:20:33]  |                                     | 
+[23:20:33]  |    Optimising code, this may take   | 
+[23:20:33]  |        a little bit of time.        | 
+[23:20:33]  |                                     | 
+[23:20:33]  |            Please wait...           | 
+[23:20:33]  |                                     | 
+[23:20:33]  |=====================================| 
+[23:20:33]  |                                     | 
+[23:20:33]  | Note that these optimisations are   | 
+[23:20:33]  | designed to improve performance     | 
+[23:20:33]  | with the JIT plugin, which you are  | 
+[23:20:33]  | not currently using.  Get it here:  | 
+[23:20:33]  |                                     | 
+[23:20:33]  |      https://git.io/jit-plugin      | 
+[23:20:33]  |                                     | 
+[23:20:33]  ======================================= 
+[23:20:33]  
+[23:20:34]  
+[23:20:34]  
+[23:20:34]  
+[23:20:34]  ======================================= 
+[23:20:34]  |                                     | 
+[23:20:34]  |        YSI version 5.03.0689        | 
+[23:20:34]  |        By Alex "Y_Less" Cole        | 
+[23:20:34]  |                                     | 
+[23:20:34]  ======================================= 
+[23:20:34]  
+[23:20:34] MySQL >> Uspjesno smo se konektovali na SQL server.
+[23:20:34] 
+----------------------------------
+[23:20:34]  >> IME SERVERA : Treasure RolePlay
+[23:20:34]  >> VERZIJA SKRIPTE : T:RP - x0.1
+[23:20:34]  >> DEVELOPER : kaizer
+[23:20:34]  >> FORUM : www.sa-mp.com
+[23:20:34] ----------------------------------
+
+[23:20:34] Number of vehicle models: 0
+[23:20:42] [connection] 127.0.0.1:63443 requests connection cookie.
+[23:20:43] [connection] incoming connection: 127.0.0.1:63443 id: 0
+[23:20:43] [join] kaizer has joined the server (0:127.0.0.1)
+[23:21:05] [part] kaizer has left the server (0:1)
+[23:21:27] [connection] 127.0.0.1:61378 requests connection cookie.
+[23:21:28] [connection] incoming connection: 127.0.0.1:61378 id: 0
+[23:21:28] [join] kaizer has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:22:01] filterscripts = ""  (string)
+[23:22:01] 
+[23:22:01] Server Plugins
+[23:22:01] --------------
+[23:22:01]  Loading plugin: crashdetect
+[23:22:01]   CrashDetect plugin 4.19.4
+[23:22:01]   Loaded.
+[23:22:01]  Loading plugin: streamer
+[23:22:01] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[23:22:01]   Loaded.
+[23:22:01]  Loading plugin: sscanf
+[23:22:01] 
+
+[23:22:01]  ===============================
+
+[23:22:01]       sscanf plugin loaded.     
+
+[23:22:01]          Version:  2.8.3        
+
+[23:22:01]   (c) 2018 Alex "Y_Less" Cole  
+
+[23:22:01]  ===============================
+
+[23:22:01]   Loaded.
+[23:22:01]  Loading plugin: pawncmd
+[23:22:01] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[23:22:01]   Loaded.
+[23:22:01]  Loading plugin: mysql
+[23:22:01]  >> plugin.mysql: R41-4 successfully loaded.
+[23:22:01]   Loaded.
+[23:22:01]  Loaded 5 plugins.
+
+[23:22:01] 
+[23:22:01] Filterscripts
+[23:22:01] ---------------
+[23:22:01]   Loaded 0 filterscripts.
+
+[23:22:01]  
+[23:22:01]  ======================================= 
+[23:22:01]  |                                     | 
+[23:22:01]  |    Optimising code, this may take   | 
+[23:22:01]  |        a little bit of time.        | 
+[23:22:01]  |                                     | 
+[23:22:01]  |            Please wait...           | 
+[23:22:01]  |                                     | 
+[23:22:01]  |=====================================| 
+[23:22:01]  |                                     | 
+[23:22:01]  | Note that these optimisations are   | 
+[23:22:01]  | designed to improve performance     | 
+[23:22:01]  | with the JIT plugin, which you are  | 
+[23:22:01]  | not currently using.  Get it here:  | 
+[23:22:01]  |                                     | 
+[23:22:01]  |      https://git.io/jit-plugin      | 
+[23:22:01]  |                                     | 
+[23:22:01]  ======================================= 
+[23:22:01]  
+[23:22:01]  
+[23:22:01]  
+[23:22:01]  
+[23:22:01]  ======================================= 
+[23:22:01]  |                                     | 
+[23:22:01]  |        YSI version 5.03.0689        | 
+[23:22:01]  |        By Alex "Y_Less" Cole        | 
+[23:22:01]  |                                     | 
+[23:22:01]  ======================================= 
+[23:22:01]  
+[23:22:01] MySQL >> Uspjesno smo se konektovali na SQL server.
+[23:22:01] 
+----------------------------------
+[23:22:01]  >> IME SERVERA : Treasure RolePlay
+[23:22:01]  >> VERZIJA SKRIPTE : T:RP - x0.1
+[23:22:01]  >> DEVELOPER : kaizer
+[23:22:01]  >> FORUM : www.sa-mp.com
+[23:22:01] ----------------------------------
+
+[23:22:01] Number of vehicle models: 0
+[23:22:18] [connection] 127.0.0.1:54557 requests connection cookie.
+[23:22:19] [connection] incoming connection: 127.0.0.1:54557 id: 0
+[23:22:19] [join] kaizer has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:23:58] filterscripts = ""  (string)
+[23:23:58] 
+[23:23:58] Server Plugins
+[23:23:58] --------------
+[23:23:58]  Loading plugin: crashdetect
+[23:23:58]   CrashDetect plugin 4.19.4
+[23:23:58]   Loaded.
+[23:23:58]  Loading plugin: streamer
+[23:23:58] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[23:23:58]   Loaded.
+[23:23:58]  Loading plugin: sscanf
+[23:23:58] 
+
+[23:23:58]  ===============================
+
+[23:23:58]       sscanf plugin loaded.     
+
+[23:23:58]          Version:  2.8.3        
+
+[23:23:58]   (c) 2018 Alex "Y_Less" Cole  
+
+[23:23:58]  ===============================
+
+[23:23:58]   Loaded.
+[23:23:58]  Loading plugin: pawncmd
+[23:23:58] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[23:23:58]   Loaded.
+[23:23:58]  Loading plugin: mysql
+[23:23:58]  >> plugin.mysql: R41-4 successfully loaded.
+[23:23:58]   Loaded.
+[23:23:58]  Loaded 5 plugins.
+
+[23:23:58] 
+[23:23:58] Filterscripts
+[23:23:58] ---------------
+[23:23:58]   Loaded 0 filterscripts.
+
+[23:23:58]  
+[23:23:58]  ======================================= 
+[23:23:58]  |                                     | 
+[23:23:58]  |    Optimising code, this may take   | 
+[23:23:58]  |        a little bit of time.        | 
+[23:23:58]  |                                     | 
+[23:23:58]  |            Please wait...           | 
+[23:23:58]  |                                     | 
+[23:23:58]  |=====================================| 
+[23:23:58]  |                                     | 
+[23:23:58]  | Note that these optimisations are   | 
+[23:23:58]  | designed to improve performance     | 
+[23:23:58]  | with the JIT plugin, which you are  | 
+[23:23:58]  | not currently using.  Get it here:  | 
+[23:23:58]  |                                     | 
+[23:23:58]  |      https://git.io/jit-plugin      | 
+[23:23:58]  |                                     | 
+[23:23:58]  ======================================= 
+[23:23:58]  
+[23:23:58]  
+[23:23:58]  
+[23:23:58]  
+[23:23:58]  ======================================= 
+[23:23:58]  |                                     | 
+[23:23:58]  |        YSI version 5.03.0689        | 
+[23:23:58]  |        By Alex "Y_Less" Cole        | 
+[23:23:58]  |                                     | 
+[23:23:58]  ======================================= 
+[23:23:58]  
+[23:23:58] MySQL >> Uspjesno smo se konektovali na SQL server.
+[23:23:58] 
+----------------------------------
+[23:23:58]  >> IME SERVERA : Treasure RolePlay
+[23:23:58]  >> VERZIJA SKRIPTE : T:RP - x0.1
+[23:23:58]  >> DEVELOPER : kaizer
+[23:23:58]  >> FORUM : www.sa-mp.com
+[23:23:58] ----------------------------------
+
+[23:23:58] Number of vehicle models: 0
+[23:24:07] [connection] 127.0.0.1:57681 requests connection cookie.
+[23:24:08] [connection] incoming connection: 127.0.0.1:57681 id: 0
+[23:24:08] [join] kaizer has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:24:37] filterscripts = ""  (string)
+[23:24:37] 
+[23:24:37] Server Plugins
+[23:24:37] --------------
+[23:24:37]  Loading plugin: crashdetect
+[23:24:37]   CrashDetect plugin 4.19.4
+[23:24:37]   Loaded.
+[23:24:37]  Loading plugin: streamer
+[23:24:37] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[23:24:37]   Loaded.
+[23:24:37]  Loading plugin: sscanf
+[23:24:37] 
+
+[23:24:37]  ===============================
+
+[23:24:37]       sscanf plugin loaded.     
+
+[23:24:37]          Version:  2.8.3        
+
+[23:24:37]   (c) 2018 Alex "Y_Less" Cole  
+
+[23:24:37]  ===============================
+
+[23:24:37]   Loaded.
+[23:24:37]  Loading plugin: pawncmd
+[23:24:37] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[23:24:37]   Loaded.
+[23:24:37]  Loading plugin: mysql
+[23:24:37]  >> plugin.mysql: R41-4 successfully loaded.
+[23:24:37]   Loaded.
+[23:24:37]  Loaded 5 plugins.
+
+[23:24:37] 
+[23:24:37] Filterscripts
+[23:24:37] ---------------
+[23:24:37]   Loaded 0 filterscripts.
+
+[23:24:37]  
+[23:24:37]  ======================================= 
+[23:24:37]  |                                     | 
+[23:24:37]  |    Optimising code, this may take   | 
+[23:24:37]  |        a little bit of time.        | 
+[23:24:37]  |                                     | 
+[23:24:37]  |            Please wait...           | 
+[23:24:37]  |                                     | 
+[23:24:37]  |=====================================| 
+[23:24:37]  |                                     | 
+[23:24:37]  | Note that these optimisations are   | 
+[23:24:37]  | designed to improve performance     | 
+[23:24:37]  | with the JIT plugin, which you are  | 
+[23:24:37]  | not currently using.  Get it here:  | 
+[23:24:37]  |                                     | 
+[23:24:37]  |      https://git.io/jit-plugin      | 
+[23:24:37]  |                                     | 
+[23:24:37]  ======================================= 
+[23:24:37]  
+[23:24:37]  
+[23:24:37]  
+[23:24:37]  
+[23:24:37]  ======================================= 
+[23:24:37]  |                                     | 
+[23:24:37]  |        YSI version 5.03.0689        | 
+[23:24:37]  |        By Alex "Y_Less" Cole        | 
+[23:24:37]  |                                     | 
+[23:24:37]  ======================================= 
+[23:24:37]  
+[23:24:37] MySQL >> Uspjesno smo se konektovali na SQL server.
+[23:24:37] 
+----------------------------------
+[23:24:37]  >> IME SERVERA : Treasure RolePlay
+[23:24:37]  >> VERZIJA SKRIPTE : T:RP - x0.1
+[23:24:37]  >> DEVELOPER : kaizer
+[23:24:37]  >> FORUM : www.sa-mp.com
+[23:24:37] ----------------------------------
+
+[23:24:37] Number of vehicle models: 0
+[23:24:57] [connection] 127.0.0.1:55193 requests connection cookie.
+[23:24:58] [connection] incoming connection: 127.0.0.1:55193 id: 0
+[23:24:58] [join] kaizer has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:25:33] filterscripts = ""  (string)
+[23:25:33] 
+[23:25:33] Server Plugins
+[23:25:33] --------------
+[23:25:33]  Loading plugin: crashdetect
+[23:25:33]   CrashDetect plugin 4.19.4
+[23:25:33]   Loaded.
+[23:25:33]  Loading plugin: streamer
+[23:25:33] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[23:25:33]   Loaded.
+[23:25:33]  Loading plugin: sscanf
+[23:25:33] 
+
+[23:25:33]  ===============================
+
+[23:25:33]       sscanf plugin loaded.     
+
+[23:25:33]          Version:  2.8.3        
+
+[23:25:33]   (c) 2018 Alex "Y_Less" Cole  
+
+[23:25:33]  ===============================
+
+[23:25:33]   Loaded.
+[23:25:33]  Loading plugin: pawncmd
+[23:25:33] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[23:25:33]   Loaded.
+[23:25:33]  Loading plugin: mysql
+[23:25:33]  >> plugin.mysql: R41-4 successfully loaded.
+[23:25:33]   Loaded.
+[23:25:33]  Loaded 5 plugins.
+
+[23:25:33] 
+[23:25:33] Filterscripts
+[23:25:33] ---------------
+[23:25:33]   Loaded 0 filterscripts.
+
+[23:25:33]  
+[23:25:33]  ======================================= 
+[23:25:33]  |                                     | 
+[23:25:33]  |    Optimising code, this may take   | 
+[23:25:33]  |        a little bit of time.        | 
+[23:25:33]  |                                     | 
+[23:25:33]  |            Please wait...           | 
+[23:25:33]  |                                     | 
+[23:25:33]  |=====================================| 
+[23:25:33]  |                                     | 
+[23:25:33]  | Note that these optimisations are   | 
+[23:25:33]  | designed to improve performance     | 
+[23:25:33]  | with the JIT plugin, which you are  | 
+[23:25:33]  | not currently using.  Get it here:  | 
+[23:25:33]  |                                     | 
+[23:25:33]  |      https://git.io/jit-plugin      | 
+[23:25:33]  |                                     | 
+[23:25:33]  ======================================= 
+[23:25:33]  
+[23:25:34]  
+[23:25:34]  
+[23:25:34]  
+[23:25:34]  ======================================= 
+[23:25:34]  |                                     | 
+[23:25:34]  |        YSI version 5.03.0689        | 
+[23:25:34]  |        By Alex "Y_Less" Cole        | 
+[23:25:34]  |                                     | 
+[23:25:34]  ======================================= 
+[23:25:34]  
+[23:25:34] MySQL >> Uspjesno smo se konektovali na SQL server.
+[23:25:34] 
+----------------------------------
+[23:25:34]  >> IME SERVERA : Treasure RolePlay
+[23:25:34]  >> VERZIJA SKRIPTE : T:RP - x0.1
+[23:25:34]  >> DEVELOPER : kaizer
+[23:25:34]  >> FORUM : www.sa-mp.com
+[23:25:34] ----------------------------------
+
+[23:25:34] Number of vehicle models: 0
+[23:25:46] [connection] 127.0.0.1:56521 requests connection cookie.
+[23:25:47] [connection] incoming connection: 127.0.0.1:56521 id: 0
+[23:25:47] [join] kaizer has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:54:41] filterscripts = ""  (string)
+[00:54:41] 
+[00:54:41] Server Plugins
+[00:54:41] --------------
+[00:54:41]  Loading plugin: crashdetect
+[00:54:42]   CrashDetect plugin 4.19.4
+[00:54:42]   Loaded.
+[00:54:42]  Loading plugin: streamer
+[00:54:42] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[00:54:42]   Loaded.
+[00:54:42]  Loading plugin: sscanf
+[00:54:42] 
+
+[00:54:42]  ===============================
+
+[00:54:42]       sscanf plugin loaded.     
+
+[00:54:42]          Version:  2.8.3        
+
+[00:54:42]   (c) 2018 Alex "Y_Less" Cole  
+
+[00:54:42]  ===============================
+
+[00:54:42]   Loaded.
+[00:54:42]  Loading plugin: pawncmd
+[00:54:42] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[00:54:42]   Loaded.
+[00:54:42]  Loading plugin: mysql
+[00:54:42]  >> plugin.mysql: R41-4 successfully loaded.
+[00:54:42]   Loaded.
+[00:54:42]  Loaded 5 plugins.
+
+[00:54:42] 
+[00:54:42] Filterscripts
+[00:54:42] ---------------
+[00:54:42]   Loaded 0 filterscripts.
+
+[00:54:42]  
+[00:54:42]  ======================================= 
+[00:54:42]  |                                     | 
+[00:54:42]  |    Optimising code, this may take   | 
+[00:54:42]  |        a little bit of time.        | 
+[00:54:42]  |                                     | 
+[00:54:42]  |            Please wait...           | 
+[00:54:42]  |                                     | 
+[00:54:42]  |=====================================| 
+[00:54:42]  |                                     | 
+[00:54:42]  | Note that these optimisations are   | 
+[00:54:42]  | designed to improve performance     | 
+[00:54:42]  | with the JIT plugin, which you are  | 
+[00:54:42]  | not currently using.  Get it here:  | 
+[00:54:42]  |                                     | 
+[00:54:42]  |      https://git.io/jit-plugin      | 
+[00:54:42]  |                                     | 
+[00:54:42]  ======================================= 
+[00:54:42]  
+[00:54:42]  
+[00:54:42]  
+[00:54:42]  
+[00:54:42]  ======================================= 
+[00:54:42]  |                                     | 
+[00:54:42]  |        YSI version 5.03.0689        | 
+[00:54:42]  |        By Alex "Y_Less" Cole        | 
+[00:54:42]  |                                     | 
+[00:54:42]  ======================================= 
+[00:54:42]  
+[00:54:42] MySQL >> Uspjesno smo se konektovali na SQL server.
+[00:54:42] 
+----------------------------------
+[00:54:42]  >> IME SERVERA : Treasure RolePlay
+[00:54:42]  >> VERZIJA SKRIPTE : T:RP - x0.1
+[00:54:42]  >> DEVELOPER : kaizer
+[00:54:42]  >> FORUM : www.sa-mp.com
+[00:54:42] ----------------------------------
+
+[00:54:42] Number of vehicle models: 0
+[00:55:04] [connection] 25.109.164.150:62455 requests connection cookie.
+[00:55:05] [connection] incoming connection: 25.109.164.150:62455 id: 0
+[00:55:05] [join] kaizer has joined the server (0:25.109.164.150)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:19:18] filterscripts = ""  (string)
+[15:19:18] 
+[15:19:18] Server Plugins
+[15:19:18] --------------
+[15:19:18]  Loading plugin: crashdetect
+[15:19:18]   CrashDetect plugin 4.19.4
+[15:19:18]   Loaded.
+[15:19:18]  Loading plugin: streamer
+[15:19:18] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[15:19:18]   Loaded.
+[15:19:18]  Loading plugin: sscanf
+[15:19:18] 
+
+[15:19:18]  ===============================
+
+[15:19:18]       sscanf plugin loaded.     
+
+[15:19:18]          Version:  2.8.3        
+
+[15:19:18]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:19:18]  ===============================
+
+[15:19:18]   Loaded.
+[15:19:18]  Loading plugin: pawncmd
+[15:19:18] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[15:19:18]   Loaded.
+[15:19:18]  Loading plugin: mysql
+[15:19:19]  >> plugin.mysql: R41-4 successfully loaded.
+[15:19:19]   Loaded.
+[15:19:19]  Loaded 5 plugins.
+
+[15:19:19] 
+[15:19:19] Filterscripts
+[15:19:19] ---------------
+[15:19:19]   Loaded 0 filterscripts.
+
+[15:19:19]  
+[15:19:19]  ======================================= 
+[15:19:19]  |                                     | 
+[15:19:19]  |    Optimising code, this may take   | 
+[15:19:19]  |        a little bit of time.        | 
+[15:19:19]  |                                     | 
+[15:19:19]  |            Please wait...           | 
+[15:19:19]  |                                     | 
+[15:19:19]  |=====================================| 
+[15:19:19]  |                                     | 
+[15:19:19]  | Note that these optimisations are   | 
+[15:19:19]  | designed to improve performance     | 
+[15:19:19]  | with the JIT plugin, which you are  | 
+[15:19:19]  | not currently using.  Get it here:  | 
+[15:19:19]  |                                     | 
+[15:19:19]  |      https://git.io/jit-plugin      | 
+[15:19:19]  |                                     | 
+[15:19:19]  ======================================= 
+[15:19:19]  
+[15:19:19]  
+[15:19:19]  
+[15:19:19]  
+[15:19:19]  ======================================= 
+[15:19:19]  |                                     | 
+[15:19:19]  |        YSI version 5.03.0689        | 
+[15:19:19]  |        By Alex "Y_Less" Cole        | 
+[15:19:19]  |                                     | 
+[15:19:19]  ======================================= 
+[15:19:19]  
+[15:19:19] MySQL >> Uspjesno smo se konektovali na SQL server.
+[15:19:19] 
+----------------------------------
+[15:19:19]  >> IME SERVERA : Treasure RolePlay
+[15:19:19]  >> VERZIJA SKRIPTE : T:RP - x0.1
+[15:19:19]  >> DEVELOPER : kaizer
+[15:19:19]  >> FORUM : www.sa-mp.com
+[15:19:19] ----------------------------------
+
+[15:19:19] Number of vehicle models: 0
+[15:19:49] [connection] 127.0.0.1:55522 requests connection cookie.
+[15:19:50] [connection] incoming connection: 127.0.0.1:55522 id: 0
+[15:19:50] [join] kaizer has joined the server (0:127.0.0.1)
+[15:21:17] [part] kaizer has left the server (0:1)
+[15:21:59] [connection] 127.0.0.1:64246 requests connection cookie.
+[15:22:00] [connection] incoming connection: 127.0.0.1:64246 id: 0
+[15:22:00] [join] kaizer has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:56:08] filterscripts = ""  (string)
+[14:56:08] 
+[14:56:08] Server Plugins
+[14:56:08] --------------
+[14:56:08]  Loading plugin: crashdetect
+[14:56:08]   CrashDetect plugin 4.19.4
+[14:56:08]   Loaded.
+[14:56:08]  Loading plugin: streamer
+[14:56:08] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[14:56:08]   Loaded.
+[14:56:08]  Loading plugin: sscanf
+[14:56:08] 
+
+[14:56:08]  ===============================
+
+[14:56:08]       sscanf plugin loaded.     
+
+[14:56:08]          Version:  2.8.3        
+
+[14:56:08]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:56:08]  ===============================
+
+[14:56:08]   Loaded.
+[14:56:08]  Loading plugin: pawncmd
+[14:56:09] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[14:56:09]   Loaded.
+[14:56:09]  Loading plugin: mysql
+[14:56:09]  >> plugin.mysql: R41-4 successfully loaded.
+[14:56:09]   Loaded.
+[14:56:09]  Loaded 5 plugins.
+
+[14:56:09] 
+[14:56:09] Filterscripts
+[14:56:09] ---------------
+[14:56:09]   Loaded 0 filterscripts.
+
+[14:56:09]  
+[14:56:09]  ======================================= 
+[14:56:09]  |                                     | 
+[14:56:09]  |    Optimising code, this may take   | 
+[14:56:09]  |        a little bit of time.        | 
+[14:56:09]  |                                     | 
+[14:56:09]  |            Please wait...           | 
+[14:56:09]  |                                     | 
+[14:56:09]  |=====================================| 
+[14:56:09]  |                                     | 
+[14:56:09]  | Note that these optimisations are   | 
+[14:56:09]  | designed to improve performance     | 
+[14:56:09]  | with the JIT plugin, which you are  | 
+[14:56:09]  | not currently using.  Get it here:  | 
+[14:56:09]  |                                     | 
+[14:56:09]  |      https://git.io/jit-plugin      | 
+[14:56:09]  |                                     | 
+[14:56:09]  ======================================= 
+[14:56:09]  
+[14:56:09]  
+[14:56:09]  
+[14:56:09]  
+[14:56:09]  ======================================= 
+[14:56:09]  |                                     | 
+[14:56:09]  |        YSI version 5.03.0689        | 
+[14:56:09]  |        By Alex "Y_Less" Cole        | 
+[14:56:09]  |                                     | 
+[14:56:09]  ======================================= 
+[14:56:09]  
+[14:56:09] MySQL >> Uspjesno smo se konektovali na SQL server.
+[14:56:09] 
+----------------------------------
+[14:56:09]  >> IME SERVERA : Treasure RolePlay
+[14:56:09]  >> VERZIJA SKRIPTE : T:RP - x0.1
+[14:56:09]  >> DEVELOPER : kaizer
+[14:56:09]  >> FORUM : www.balkanhub.info
+[14:56:09] ----------------------------------
+
+[14:56:09] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:56:36] filterscripts = ""  (string)
+[14:56:36] 
+[14:56:36] Server Plugins
+[14:56:36] --------------
+[14:56:36]  Loading plugin: crashdetect
+[14:56:36]   CrashDetect plugin 4.19.4
+[14:56:36]   Loaded.
+[14:56:36]  Loading plugin: streamer
+[14:56:36] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[14:56:36]   Loaded.
+[14:56:36]  Loading plugin: sscanf
+[14:56:36] 
+
+[14:56:36]  ===============================
+
+[14:56:36]       sscanf plugin loaded.     
+
+[14:56:36]          Version:  2.8.3        
+
+[14:56:36]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:56:36]  ===============================
+
+[14:56:36]   Loaded.
+[14:56:36]  Loading plugin: pawncmd
+[14:56:36] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[14:56:36]   Loaded.
+[14:56:36]  Loading plugin: mysql
+[14:56:36]  >> plugin.mysql: R41-4 successfully loaded.
+[14:56:36]   Loaded.
+[14:56:36]  Loaded 5 plugins.
+
+[14:56:37] 
+[14:56:37] Filterscripts
+[14:56:37] ---------------
+[14:56:37]   Loaded 0 filterscripts.
+
+[14:56:37]  
+[14:56:37]  ======================================= 
+[14:56:37]  |                                     | 
+[14:56:37]  |    Optimising code, this may take   | 
+[14:56:37]  |        a little bit of time.        | 
+[14:56:37]  |                                     | 
+[14:56:37]  |            Please wait...           | 
+[14:56:37]  |                                     | 
+[14:56:37]  |=====================================| 
+[14:56:37]  |                                     | 
+[14:56:37]  | Note that these optimisations are   | 
+[14:56:37]  | designed to improve performance     | 
+[14:56:37]  | with the JIT plugin, which you are  | 
+[14:56:37]  | not currently using.  Get it here:  | 
+[14:56:37]  |                                     | 
+[14:56:37]  |      https://git.io/jit-plugin      | 
+[14:56:37]  |                                     | 
+[14:56:37]  ======================================= 
+[14:56:37]  
+[14:56:37]  
+[14:56:37]  
+[14:56:37]  
+[14:56:37]  ======================================= 
+[14:56:37]  |                                     | 
+[14:56:37]  |        YSI version 5.03.0689        | 
+[14:56:37]  |        By Alex "Y_Less" Cole        | 
+[14:56:37]  |                                     | 
+[14:56:37]  ======================================= 
+[14:56:37]  
+[14:56:37] MySQL >> Uspjesno smo se konektovali na SQL server.
+[14:56:37] 
+----------------------------------
+[14:56:37]  >> IME SERVERA : Treasure RolePlay
+[14:56:37]  >> VERZIJA SKRIPTE : T:RP - x0.1
+[14:56:37]  >> DEVELOPER : kaizer
+[14:56:37]  >> FORUM : www.balkanhub.info
+[14:56:37] ----------------------------------
+
+[14:56:37] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:57:01] filterscripts = ""  (string)
+[14:57:01] 
+[14:57:01] Server Plugins
+[14:57:01] --------------
+[14:57:01]  Loading plugin: crashdetect
+[14:57:01]   CrashDetect plugin 4.19.4
+[14:57:01]   Loaded.
+[14:57:01]  Loading plugin: streamer
+[14:57:01] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[14:57:01]   Loaded.
+[14:57:01]  Loading plugin: sscanf
+[14:57:01] 
+
+[14:57:01]  ===============================
+
+[14:57:01]       sscanf plugin loaded.     
+
+[14:57:01]          Version:  2.8.3        
+
+[14:57:01]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:57:01]  ===============================
+
+[14:57:01]   Loaded.
+[14:57:01]  Loading plugin: pawncmd
+[14:57:01] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[14:57:01]   Loaded.
+[14:57:01]  Loading plugin: mysql
+[14:57:01]  >> plugin.mysql: R41-4 successfully loaded.
+[14:57:01]   Loaded.
+[14:57:01]  Loaded 5 plugins.
+
+[14:57:01] 
+[14:57:01] Filterscripts
+[14:57:01] ---------------
+[14:57:01]   Loaded 0 filterscripts.
+
+[14:57:01]  
+[14:57:01]  ======================================= 
+[14:57:01]  |                                     | 
+[14:57:01]  |    Optimising code, this may take   | 
+[14:57:01]  |        a little bit of time.        | 
+[14:57:01]  |                                     | 
+[14:57:01]  |            Please wait...           | 
+[14:57:01]  |                                     | 
+[14:57:01]  |=====================================| 
+[14:57:01]  |                                     | 
+[14:57:01]  | Note that these optimisations are   | 
+[14:57:01]  | designed to improve performance     | 
+[14:57:01]  | with the JIT plugin, which you are  | 
+[14:57:01]  | not currently using.  Get it here:  | 
+[14:57:01]  |                                     | 
+[14:57:01]  |      https://git.io/jit-plugin      | 
+[14:57:01]  |                                     | 
+[14:57:01]  ======================================= 
+[14:57:01]  
+[14:57:01]  
+[14:57:01]  
+[14:57:01]  
+[14:57:01]  ======================================= 
+[14:57:01]  |                                     | 
+[14:57:01]  |        YSI version 5.03.0689        | 
+[14:57:01]  |        By Alex "Y_Less" Cole        | 
+[14:57:01]  |                                     | 
+[14:57:01]  ======================================= 
+[14:57:01]  
+[14:57:01] MySQL >> Uspjesno smo se konektovali na SQL server.
+[14:57:01] 
+----------------------------------
+[14:57:01]  >> IME SERVERA : Treasure RolePlay
+[14:57:01]  >> VERZIJA SKRIPTE : T:RP - x0.1
+[14:57:01]  >> DEVELOPER : kaizer
+[14:57:01]  >> FORUM : www.balkanhub.info
+[14:57:01] ----------------------------------
+
+[14:57:01] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:57:13] filterscripts = ""  (string)
+[14:57:13] 
+[14:57:13] Server Plugins
+[14:57:13] --------------
+[14:57:13]  Loading plugin: crashdetect
+[14:57:13]   CrashDetect plugin 4.19.4
+[14:57:13]   Loaded.
+[14:57:13]  Loading plugin: streamer
+[14:57:13] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[14:57:13]   Loaded.
+[14:57:13]  Loading plugin: sscanf
+[14:57:13] 
+
+[14:57:13]  ===============================
+
+[14:57:13]       sscanf plugin loaded.     
+
+[14:57:13]          Version:  2.8.3        
+
+[14:57:13]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:57:13]  ===============================
+
+[14:57:13]   Loaded.
+[14:57:13]  Loading plugin: pawncmd
+[14:57:13] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[14:57:13]   Loaded.
+[14:57:13]  Loading plugin: mysql
+[14:57:13]  >> plugin.mysql: R41-4 successfully loaded.
+[14:57:13]   Loaded.
+[14:57:13]  Loaded 5 plugins.
+
+[14:57:13] 
+[14:57:13] Filterscripts
+[14:57:13] ---------------
+[14:57:13]   Loaded 0 filterscripts.
+
+[14:57:13]  
+[14:57:13]  ======================================= 
+[14:57:13]  |                                     | 
+[14:57:13]  |    Optimising code, this may take   | 
+[14:57:13]  |        a little bit of time.        | 
+[14:57:13]  |                                     | 
+[14:57:13]  |            Please wait...           | 
+[14:57:13]  |                                     | 
+[14:57:13]  |=====================================| 
+[14:57:13]  |                                     | 
+[14:57:13]  | Note that these optimisations are   | 
+[14:57:13]  | designed to improve performance     | 
+[14:57:13]  | with the JIT plugin, which you are  | 
+[14:57:13]  | not currently using.  Get it here:  | 
+[14:57:13]  |                                     | 
+[14:57:13]  |      https://git.io/jit-plugin      | 
+[14:57:13]  |                                     | 
+[14:57:13]  ======================================= 
+[14:57:13]  
+[14:57:13]  
+[14:57:13]  
+[14:57:13]  
+[14:57:13]  ======================================= 
+[14:57:13]  |                                     | 
+[14:57:13]  |        YSI version 5.03.0689        | 
+[14:57:13]  |        By Alex "Y_Less" Cole        | 
+[14:57:13]  |                                     | 
+[14:57:13]  ======================================= 
+[14:57:13]  
+[14:57:13] MySQL >> Uspjesno smo se konektovali na SQL server.
+[14:57:13] 
+----------------------------------
+[14:57:13]  >> IME SERVERA : Treasure RolePlay
+[14:57:13]  >> VERZIJA SKRIPTE : T:RP - x0.1
+[14:57:13]  >> DEVELOPER : kaizer
+[14:57:13]  >> FORUM : www.balkanhub.info
+[14:57:13] ----------------------------------
+
+[14:57:13] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:57:21] filterscripts = ""  (string)
+[14:57:21] 
+[14:57:21] Server Plugins
+[14:57:21] --------------
+[14:57:21]  Loading plugin: crashdetect
+[14:57:21]   CrashDetect plugin 4.19.4
+[14:57:21]   Loaded.
+[14:57:21]  Loading plugin: streamer
+[14:57:21] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[14:57:21]   Loaded.
+[14:57:21]  Loading plugin: sscanf
+[14:57:21] 
+
+[14:57:21]  ===============================
+
+[14:57:21]       sscanf plugin loaded.     
+
+[14:57:21]          Version:  2.8.3        
+
+[14:57:21]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:57:21]  ===============================
+
+[14:57:21]   Loaded.
+[14:57:21]  Loading plugin: pawncmd
+[14:57:21] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[14:57:21]   Loaded.
+[14:57:21]  Loading plugin: mysql
+[14:57:21]  >> plugin.mysql: R41-4 successfully loaded.
+[14:57:21]   Loaded.
+[14:57:21]  Loaded 5 plugins.
+
+[14:57:21] 
+[14:57:21] Filterscripts
+[14:57:21] ---------------
+[14:57:21]   Loaded 0 filterscripts.
+
+[14:57:21]  
+[14:57:21]  ======================================= 
+[14:57:21]  |                                     | 
+[14:57:21]  |    Optimising code, this may take   | 
+[14:57:21]  |        a little bit of time.        | 
+[14:57:21]  |                                     | 
+[14:57:21]  |            Please wait...           | 
+[14:57:21]  |                                     | 
+[14:57:21]  |=====================================| 
+[14:57:21]  |                                     | 
+[14:57:21]  | Note that these optimisations are   | 
+[14:57:21]  | designed to improve performance     | 
+[14:57:21]  | with the JIT plugin, which you are  | 
+[14:57:21]  | not currently using.  Get it here:  | 
+[14:57:21]  |                                     | 
+[14:57:21]  |      https://git.io/jit-plugin      | 
+[14:57:21]  |                                     | 
+[14:57:21]  ======================================= 
+[14:57:21]  
+[14:57:21]  
+[14:57:21]  
+[14:57:21]  
+[14:57:21]  ======================================= 
+[14:57:21]  |                                     | 
+[14:57:21]  |        YSI version 5.03.0689        | 
+[14:57:21]  |        By Alex "Y_Less" Cole        | 
+[14:57:21]  |                                     | 
+[14:57:21]  ======================================= 
+[14:57:21]  
+[14:57:21] MySQL >> Uspjesno smo se konektovali na SQL server.
+[14:57:21] 
+----------------------------------
+[14:57:21]  >> IME SERVERA : Treasure RolePlay
+[14:57:21]  >> VERZIJA SKRIPTE : T:RP - x0.1
+[14:57:21]  >> DEVELOPER : kaizer
+[14:57:21]  >> FORUM : www.balkanhub.info
+[14:57:21] ----------------------------------
+
+[14:57:21] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:57:33] filterscripts = ""  (string)
+[14:57:33] 
+[14:57:33] Server Plugins
+[14:57:33] --------------
+[14:57:33]  Loading plugin: crashdetect
+[14:57:33]   CrashDetect plugin 4.19.4
+[14:57:33]   Loaded.
+[14:57:33]  Loading plugin: streamer
+[14:57:33] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[14:57:33]   Loaded.
+[14:57:33]  Loading plugin: sscanf
+[14:57:33] 
+
+[14:57:33]  ===============================
+
+[14:57:33]       sscanf plugin loaded.     
+
+[14:57:33]          Version:  2.8.3        
+
+[14:57:33]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:57:33]  ===============================
+
+[14:57:33]   Loaded.
+[14:57:33]  Loading plugin: pawncmd
+[14:57:33] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[14:57:33]   Loaded.
+[14:57:33]  Loading plugin: mysql
+[14:57:33]  >> plugin.mysql: R41-4 successfully loaded.
+[14:57:33]   Loaded.
+[14:57:33]  Loaded 5 plugins.
+
+[14:57:33] 
+[14:57:33] Filterscripts
+[14:57:33] ---------------
+[14:57:33]   Loaded 0 filterscripts.
+
+[14:57:33]  
+[14:57:33]  ======================================= 
+[14:57:33]  |                                     | 
+[14:57:33]  |    Optimising code, this may take   | 
+[14:57:33]  |        a little bit of time.        | 
+[14:57:33]  |                                     | 
+[14:57:33]  |            Please wait...           | 
+[14:57:33]  |                                     | 
+[14:57:33]  |=====================================| 
+[14:57:33]  |                                     | 
+[14:57:33]  | Note that these optimisations are   | 
+[14:57:33]  | designed to improve performance     | 
+[14:57:33]  | with the JIT plugin, which you are  | 
+[14:57:33]  | not currently using.  Get it here:  | 
+[14:57:33]  |                                     | 
+[14:57:33]  |      https://git.io/jit-plugin      | 
+[14:57:33]  |                                     | 
+[14:57:33]  ======================================= 
+[14:57:33]  
+[14:57:33]  
+[14:57:33]  
+[14:57:33]  
+[14:57:33]  ======================================= 
+[14:57:33]  |                                     | 
+[14:57:33]  |        YSI version 5.03.0689        | 
+[14:57:33]  |        By Alex "Y_Less" Cole        | 
+[14:57:33]  |                                     | 
+[14:57:33]  ======================================= 
+[14:57:33]  
+[14:57:33] MySQL >> Uspjesno smo se konektovali na SQL server.
+[14:57:33] 
+----------------------------------
+[14:57:33]  >> IME SERVERA : Treasure RolePlay
+[14:57:33]  >> VERZIJA SKRIPTE : T:RP - x0.1
+[14:57:33]  >> DEVELOPER : kaizer
+[14:57:33]  >> FORUM : www.balkanhub.info
+[14:57:33] ----------------------------------
+
+[14:57:33] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:24:00] filterscripts = ""  (string)
+[15:24:00] 
+[15:24:00] Server Plugins
+[15:24:00] --------------
+[15:24:00]  Loading plugin: crashdetect
+[15:24:00]   CrashDetect plugin 4.19.4
+[15:24:00]   Loaded.
+[15:24:00]  Loading plugin: streamer
+[15:24:00] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[15:24:00]   Loaded.
+[15:24:00]  Loading plugin: sscanf
+[15:24:00] 
+
+[15:24:00]  ===============================
+
+[15:24:00]       sscanf plugin loaded.     
+
+[15:24:00]          Version:  2.8.3        
+
+[15:24:00]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:24:00]  ===============================
+
+[15:24:00]   Loaded.
+[15:24:00]  Loading plugin: pawncmd
+[15:24:00] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[15:24:00]   Loaded.
+[15:24:00]  Loading plugin: mysql
+[15:24:00]  >> plugin.mysql: R41-4 successfully loaded.
+[15:24:00]   Loaded.
+[15:24:00]  Loaded 5 plugins.
+
+[15:24:00] 
+[15:24:00] Filterscripts
+[15:24:00] ---------------
+[15:24:00]   Loaded 0 filterscripts.
+
+[15:24:00]  
+[15:24:00]  ======================================= 
+[15:24:00]  |                                     | 
+[15:24:00]  |    Optimising code, this may take   | 
+[15:24:00]  |        a little bit of time.        | 
+[15:24:00]  |                                     | 
+[15:24:00]  |            Please wait...           | 
+[15:24:00]  |                                     | 
+[15:24:00]  |=====================================| 
+[15:24:00]  |                                     | 
+[15:24:00]  | Note that these optimisations are   | 
+[15:24:00]  | designed to improve performance     | 
+[15:24:00]  | with the JIT plugin, which you are  | 
+[15:24:00]  | not currently using.  Get it here:  | 
+[15:24:00]  |                                     | 
+[15:24:00]  |      https://git.io/jit-plugin      | 
+[15:24:00]  |                                     | 
+[15:24:00]  ======================================= 
+[15:24:00]  
+[15:24:01]  
+[15:24:01]  
+[15:24:01]  
+[15:24:01]  ======================================= 
+[15:24:01]  |                                     | 
+[15:24:01]  |        YSI version 5.03.0689        | 
+[15:24:01]  |        By Alex "Y_Less" Cole        | 
+[15:24:01]  |                                     | 
+[15:24:01]  ======================================= 
+[15:24:01]  
+[15:24:01] MySQL >> Uspjesno smo se konektovali na SQL server.
+[15:24:01] 
+----------------------------------
+[15:24:01]  >> IME SERVERA : Treasure RolePlay
+[15:24:01]  >> VERZIJA SKRIPTE : T:RP - x0.1
+[15:24:01]  >> DEVELOPER : kaizer
+[15:24:01]  >> FORUM : www.balkanhub.info
+[15:24:01] ----------------------------------
+
+[15:24:01] Number of vehicle models: 0
+[15:24:11] [connection] 127.0.0.1:54548 requests connection cookie.
+[15:24:12] [connection] incoming connection: 127.0.0.1:54548 id: 0
+[15:24:12] [join] kaizer has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:25:14] filterscripts = ""  (string)
+[15:25:14] 
+[15:25:14] Server Plugins
+[15:25:14] --------------
+[15:25:14]  Loading plugin: crashdetect
+[15:25:14]   CrashDetect plugin 4.19.4
+[15:25:14]   Loaded.
+[15:25:14]  Loading plugin: streamer
+[15:25:14] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[15:25:14]   Loaded.
+[15:25:14]  Loading plugin: sscanf
+[15:25:14] 
+
+[15:25:14]  ===============================
+
+[15:25:14]       sscanf plugin loaded.     
+
+[15:25:14]          Version:  2.8.3        
+
+[15:25:14]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:25:14]  ===============================
+
+[15:25:14]   Loaded.
+[15:25:14]  Loading plugin: pawncmd
+[15:25:14] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[15:25:14]   Loaded.
+[15:25:14]  Loading plugin: mysql
+[15:25:14]  >> plugin.mysql: R41-4 successfully loaded.
+[15:25:14]   Loaded.
+[15:25:14]  Loaded 5 plugins.
+
+[15:25:14] 
+[15:25:14] Filterscripts
+[15:25:14] ---------------
+[15:25:14]   Loaded 0 filterscripts.
+
+[15:25:14]  
+[15:25:14]  ======================================= 
+[15:25:14]  |                                     | 
+[15:25:14]  |    Optimising code, this may take   | 
+[15:25:14]  |        a little bit of time.        | 
+[15:25:14]  |                                     | 
+[15:25:14]  |            Please wait...           | 
+[15:25:14]  |                                     | 
+[15:25:14]  |=====================================| 
+[15:25:14]  |                                     | 
+[15:25:14]  | Note that these optimisations are   | 
+[15:25:14]  | designed to improve performance     | 
+[15:25:14]  | with the JIT plugin, which you are  | 
+[15:25:14]  | not currently using.  Get it here:  | 
+[15:25:14]  |                                     | 
+[15:25:14]  |      https://git.io/jit-plugin      | 
+[15:25:14]  |                                     | 
+[15:25:14]  ======================================= 
+[15:25:14]  
+[15:25:14]  
+[15:25:14]  
+[15:25:14]  
+[15:25:14]  ======================================= 
+[15:25:14]  |                                     | 
+[15:25:14]  |        YSI version 5.03.0689        | 
+[15:25:14]  |        By Alex "Y_Less" Cole        | 
+[15:25:14]  |                                     | 
+[15:25:14]  ======================================= 
+[15:25:14]  
+[15:25:14] MySQL >> Uspjesno smo se konektovali na SQL server.
+[15:25:14] 
+----------------------------------
+[15:25:14]  >> IME SERVERA : Treasure RolePlay
+[15:25:14]  >> VERZIJA SKRIPTE : T:RP - x0.1
+[15:25:14]  >> DEVELOPER : kaizer
+[15:25:14]  >> FORUM : www.balkanhub.info
+[15:25:14] ----------------------------------
+
+[15:25:14] Number of vehicle models: 0
+[15:25:33] [connection] 127.0.0.1:64632 requests connection cookie.
+[15:25:34] [connection] incoming connection: 127.0.0.1:64632 id: 0
+[15:25:35] [join] kaizer has joined the server (0:127.0.0.1)
+[15:26:57] [part] kaizer has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:27:34] filterscripts = ""  (string)
+[15:27:34] 
+[15:27:34] Server Plugins
+[15:27:34] --------------
+[15:27:34]  Loading plugin: crashdetect
+[15:27:34]   CrashDetect plugin 4.19.4
+[15:27:34]   Loaded.
+[15:27:34]  Loading plugin: streamer
+[15:27:34] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[15:27:34]   Loaded.
+[15:27:34]  Loading plugin: sscanf
+[15:27:34] 
+
+[15:27:34]  ===============================
+
+[15:27:34]       sscanf plugin loaded.     
+
+[15:27:34]          Version:  2.8.3        
+
+[15:27:34]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:27:34]  ===============================
+
+[15:27:34]   Loaded.
+[15:27:34]  Loading plugin: pawncmd
+[15:27:34] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[15:27:34]   Loaded.
+[15:27:34]  Loading plugin: mysql
+[15:27:34]  >> plugin.mysql: R41-4 successfully loaded.
+[15:27:34]   Loaded.
+[15:27:34]  Loaded 5 plugins.
+
+[15:27:34] 
+[15:27:34] Filterscripts
+[15:27:34] ---------------
+[15:27:34]   Loaded 0 filterscripts.
+
+[15:27:34]  
+[15:27:34]  ======================================= 
+[15:27:34]  |                                     | 
+[15:27:34]  |    Optimising code, this may take   | 
+[15:27:34]  |        a little bit of time.        | 
+[15:27:34]  |                                     | 
+[15:27:34]  |            Please wait...           | 
+[15:27:34]  |                                     | 
+[15:27:34]  |=====================================| 
+[15:27:34]  |                                     | 
+[15:27:34]  | Note that these optimisations are   | 
+[15:27:34]  | designed to improve performance     | 
+[15:27:34]  | with the JIT plugin, which you are  | 
+[15:27:34]  | not currently using.  Get it here:  | 
+[15:27:34]  |                                     | 
+[15:27:34]  |      https://git.io/jit-plugin      | 
+[15:27:34]  |                                     | 
+[15:27:34]  ======================================= 
+[15:27:34]  
+[15:27:34]  
+[15:27:34]  
+[15:27:34]  
+[15:27:34]  ======================================= 
+[15:27:34]  |                                     | 
+[15:27:34]  |        YSI version 5.03.0689        | 
+[15:27:34]  |        By Alex "Y_Less" Cole        | 
+[15:27:34]  |                                     | 
+[15:27:34]  ======================================= 
+[15:27:34]  
+[15:27:34] MySQL >> Uspjesno smo se konektovali na SQL server.
+[15:27:34] 
+----------------------------------
+[15:27:34]  >> IME SERVERA : Treasure RolePlay
+[15:27:34]  >> VERZIJA SKRIPTE : T:RP - x0.1
+[15:27:34]  >> DEVELOPER : kaizer
+[15:27:34]  >> FORUM : www.balkanhub.info
+[15:27:34] ----------------------------------
+
+[15:27:34] Number of vehicle models: 0
+[15:27:55] [connection] 127.0.0.1:57159 requests connection cookie.
+[15:27:56] [connection] incoming connection: 127.0.0.1:57159 id: 0
+[15:27:57] [join] kaizer has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:28:20] filterscripts = ""  (string)
+[15:28:20] 
+[15:28:20] Server Plugins
+[15:28:20] --------------
+[15:28:20]  Loading plugin: crashdetect
+[15:28:20]   CrashDetect plugin 4.19.4
+[15:28:20]   Loaded.
+[15:28:20]  Loading plugin: streamer
+[15:28:20] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[15:28:20]   Loaded.
+[15:28:20]  Loading plugin: sscanf
+[15:28:20] 
+
+[15:28:20]  ===============================
+
+[15:28:20]       sscanf plugin loaded.     
+
+[15:28:20]          Version:  2.8.3        
+
+[15:28:20]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:28:20]  ===============================
+
+[15:28:20]   Loaded.
+[15:28:20]  Loading plugin: pawncmd
+[15:28:20] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[15:28:20]   Loaded.
+[15:28:20]  Loading plugin: mysql
+[15:28:20]  >> plugin.mysql: R41-4 successfully loaded.
+[15:28:20]   Loaded.
+[15:28:20]  Loaded 5 plugins.
+
+[15:28:20] 
+[15:28:20] Filterscripts
+[15:28:20] ---------------
+[15:28:20]   Loaded 0 filterscripts.
+
+[15:28:20]  
+[15:28:20]  ======================================= 
+[15:28:20]  |                                     | 
+[15:28:20]  |    Optimising code, this may take   | 
+[15:28:20]  |        a little bit of time.        | 
+[15:28:20]  |                                     | 
+[15:28:20]  |            Please wait...           | 
+[15:28:20]  |                                     | 
+[15:28:20]  |=====================================| 
+[15:28:20]  |                                     | 
+[15:28:20]  | Note that these optimisations are   | 
+[15:28:20]  | designed to improve performance     | 
+[15:28:20]  | with the JIT plugin, which you are  | 
+[15:28:20]  | not currently using.  Get it here:  | 
+[15:28:20]  |                                     | 
+[15:28:20]  |      https://git.io/jit-plugin      | 
+[15:28:20]  |                                     | 
+[15:28:20]  ======================================= 
+[15:28:20]  
+[15:28:20]  
+[15:28:20]  
+[15:28:20]  
+[15:28:20]  ======================================= 
+[15:28:20]  |                                     | 
+[15:28:20]  |        YSI version 5.03.0689        | 
+[15:28:20]  |        By Alex "Y_Less" Cole        | 
+[15:28:20]  |                                     | 
+[15:28:20]  ======================================= 
+[15:28:20]  
+[15:28:21] MySQL >> Uspjesno smo se konektovali na SQL server.
+[15:28:21] 
+----------------------------------
+[15:28:21]  >> IME SERVERA : Treasure RolePlay
+[15:28:21]  >> VERZIJA SKRIPTE : T:RP - x0.1
+[15:28:21]  >> DEVELOPER : kaizer
+[15:28:21]  >> FORUM : www.balkanhub.info
+[15:28:21] ----------------------------------
+
+[15:28:21] Number of vehicle models: 0
+[15:28:32] [connection] 127.0.0.1:51438 requests connection cookie.
+[15:28:33] [connection] incoming connection: 127.0.0.1:51438 id: 0
+[15:28:34] [join] kaizer has joined the server (0:127.0.0.1)
+[15:29:11] [part] kaizer has left the server (0:1)
+[15:29:47] [connection] 127.0.0.1:51569 requests connection cookie.
+[15:29:48] [connection] incoming connection: 127.0.0.1:51569 id: 0
+[15:29:48] [join] kaizer has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:31:34] filterscripts = ""  (string)
+[15:31:34] 
+[15:31:34] Server Plugins
+[15:31:34] --------------
+[15:31:34]  Loading plugin: crashdetect
+[15:31:34]   CrashDetect plugin 4.19.4
+[15:31:34]   Loaded.
+[15:31:34]  Loading plugin: streamer
+[15:31:34] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[15:31:34]   Loaded.
+[15:31:34]  Loading plugin: sscanf
+[15:31:34] 
+
+[15:31:34]  ===============================
+
+[15:31:34]       sscanf plugin loaded.     
+
+[15:31:34]          Version:  2.8.3        
+
+[15:31:34]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:31:34]  ===============================
+
+[15:31:34]   Loaded.
+[15:31:34]  Loading plugin: pawncmd
+[15:31:34] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[15:31:34]   Loaded.
+[15:31:34]  Loading plugin: mysql
+[15:31:34]  >> plugin.mysql: R41-4 successfully loaded.
+[15:31:34]   Loaded.
+[15:31:34]  Loaded 5 plugins.
+
+[15:31:34] 
+[15:31:34] Filterscripts
+[15:31:34] ---------------
+[15:31:34]   Loaded 0 filterscripts.
+
+[15:31:34]  
+[15:31:34]  ======================================= 
+[15:31:34]  |                                     | 
+[15:31:34]  |    Optimising code, this may take   | 
+[15:31:34]  |        a little bit of time.        | 
+[15:31:34]  |                                     | 
+[15:31:34]  |            Please wait...           | 
+[15:31:34]  |                                     | 
+[15:31:34]  |=====================================| 
+[15:31:34]  |                                     | 
+[15:31:34]  | Note that these optimisations are   | 
+[15:31:34]  | designed to improve performance     | 
+[15:31:34]  | with the JIT plugin, which you are  | 
+[15:31:34]  | not currently using.  Get it here:  | 
+[15:31:34]  |                                     | 
+[15:31:34]  |      https://git.io/jit-plugin      | 
+[15:31:34]  |                                     | 
+[15:31:34]  ======================================= 
+[15:31:34]  
+[15:31:34]  
+[15:31:34]  
+[15:31:34]  
+[15:31:34]  ======================================= 
+[15:31:34]  |                                     | 
+[15:31:34]  |        YSI version 5.03.0689        | 
+[15:31:34]  |        By Alex "Y_Less" Cole        | 
+[15:31:34]  |                                     | 
+[15:31:34]  ======================================= 
+[15:31:34]  
+[15:31:34] MySQL >> Uspjesno smo se konektovali na SQL server.
+[15:31:34] 
+----------------------------------
+[15:31:34]  >> IME SERVERA : Treasure RolePlay
+[15:31:34]  >> VERZIJA SKRIPTE : T:RP - x0.1
+[15:31:34]  >> DEVELOPER : kaizer
+[15:31:34]  >> FORUM : www.balkanhub.info
+[15:31:34] ----------------------------------
+
+[15:31:34] Number of vehicle models: 0
+[15:31:49] [connection] 127.0.0.1:57674 requests connection cookie.
+[15:31:50] [connection] incoming connection: 127.0.0.1:57674 id: 0
+[15:31:50] [join] kaizer has joined the server (0:127.0.0.1)
+[15:31:51] clickedid == 0
+[15:31:52] clickedid == 0
+[15:31:53] clickedid == 0
+[15:31:54] clickedid == 0
+[15:31:54] clickedid == 0
+[15:31:55] clickedid == 0
+[15:31:55] clickedid == 0
+[15:31:55] clickedid == 0
+[15:31:56] clickedid == 0
+[15:31:56] clickedid == 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:32:35] filterscripts = ""  (string)
+[15:32:35] 
+[15:32:35] Server Plugins
+[15:32:35] --------------
+[15:32:35]  Loading plugin: crashdetect
+[15:32:35]   CrashDetect plugin 4.19.4
+[15:32:35]   Loaded.
+[15:32:35]  Loading plugin: streamer
+[15:32:35] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[15:32:35]   Loaded.
+[15:32:35]  Loading plugin: sscanf
+[15:32:35] 
+
+[15:32:35]  ===============================
+
+[15:32:35]       sscanf plugin loaded.     
+
+[15:32:35]          Version:  2.8.3        
+
+[15:32:35]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:32:35]  ===============================
+
+[15:32:35]   Loaded.
+[15:32:35]  Loading plugin: pawncmd
+[15:32:35] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[15:32:35]   Loaded.
+[15:32:35]  Loading plugin: mysql
+[15:32:35]  >> plugin.mysql: R41-4 successfully loaded.
+[15:32:35]   Loaded.
+[15:32:35]  Loaded 5 plugins.
+
+[15:32:35] 
+[15:32:35] Filterscripts
+[15:32:35] ---------------
+[15:32:35]   Loaded 0 filterscripts.
+
+[15:32:35]  
+[15:32:35]  ======================================= 
+[15:32:35]  |                                     | 
+[15:32:35]  |    Optimising code, this may take   | 
+[15:32:35]  |        a little bit of time.        | 
+[15:32:35]  |                                     | 
+[15:32:35]  |            Please wait...           | 
+[15:32:35]  |                                     | 
+[15:32:35]  |=====================================| 
+[15:32:35]  |                                     | 
+[15:32:35]  | Note that these optimisations are   | 
+[15:32:35]  | designed to improve performance     | 
+[15:32:35]  | with the JIT plugin, which you are  | 
+[15:32:35]  | not currently using.  Get it here:  | 
+[15:32:35]  |                                     | 
+[15:32:35]  |      https://git.io/jit-plugin      | 
+[15:32:35]  |                                     | 
+[15:32:35]  ======================================= 
+[15:32:35]  
+[15:32:35]  
+[15:32:35]  
+[15:32:35]  
+[15:32:35]  ======================================= 
+[15:32:35]  |                                     | 
+[15:32:35]  |        YSI version 5.03.0689        | 
+[15:32:35]  |        By Alex "Y_Less" Cole        | 
+[15:32:35]  |                                     | 
+[15:32:35]  ======================================= 
+[15:32:35]  
+[15:32:35] MySQL >> Uspjesno smo se konektovali na SQL server.
+[15:32:35] 
+----------------------------------
+[15:32:35]  >> IME SERVERA : Treasure RolePlay
+[15:32:35]  >> VERZIJA SKRIPTE : T:RP - x0.1
+[15:32:35]  >> DEVELOPER : kaizer
+[15:32:35]  >> FORUM : www.balkanhub.info
+[15:32:35] ----------------------------------
+
+[15:32:35] Number of vehicle models: 0
+[15:32:52] [connection] 127.0.0.1:58460 requests connection cookie.
+[15:32:53] [connection] incoming connection: 127.0.0.1:58460 id: 0
+[15:32:53] [join] kaizer has joined the server (0:127.0.0.1)
+[15:32:54] clickedid == 0
+[15:32:55] clickedid == 0
+[15:32:55] clickedid == 0
+[15:32:56] clickedid == 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:35:33] filterscripts = ""  (string)
+[15:35:33] 
+[15:35:33] Server Plugins
+[15:35:33] --------------
+[15:35:33]  Loading plugin: crashdetect
+[15:35:33]   CrashDetect plugin 4.19.4
+[15:35:33]   Loaded.
+[15:35:33]  Loading plugin: streamer
+[15:35:33] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[15:35:33]   Loaded.
+[15:35:33]  Loading plugin: sscanf
+[15:35:33] 
+
+[15:35:33]  ===============================
+
+[15:35:33]       sscanf plugin loaded.     
+
+[15:35:33]          Version:  2.8.3        
+
+[15:35:33]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:35:33]  ===============================
+
+[15:35:33]   Loaded.
+[15:35:33]  Loading plugin: pawncmd
+[15:35:33] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[15:35:33]   Loaded.
+[15:35:33]  Loading plugin: mysql
+[15:35:33]  >> plugin.mysql: R41-4 successfully loaded.
+[15:35:33]   Loaded.
+[15:35:33]  Loaded 5 plugins.
+
+[15:35:33] 
+[15:35:33] Filterscripts
+[15:35:33] ---------------
+[15:35:33]   Loaded 0 filterscripts.
+
+[15:35:33]  
+[15:35:33]  ======================================= 
+[15:35:33]  |                                     | 
+[15:35:33]  |    Optimising code, this may take   | 
+[15:35:33]  |        a little bit of time.        | 
+[15:35:33]  |                                     | 
+[15:35:33]  |            Please wait...           | 
+[15:35:33]  |                                     | 
+[15:35:33]  |=====================================| 
+[15:35:33]  |                                     | 
+[15:35:33]  | Note that these optimisations are   | 
+[15:35:33]  | designed to improve performance     | 
+[15:35:33]  | with the JIT plugin, which you are  | 
+[15:35:33]  | not currently using.  Get it here:  | 
+[15:35:33]  |                                     | 
+[15:35:33]  |      https://git.io/jit-plugin      | 
+[15:35:33]  |                                     | 
+[15:35:33]  ======================================= 
+[15:35:33]  
+[15:35:34]  
+[15:35:34]  
+[15:35:34]  
+[15:35:34]  ======================================= 
+[15:35:34]  |                                     | 
+[15:35:34]  |        YSI version 5.03.0689        | 
+[15:35:34]  |        By Alex "Y_Less" Cole        | 
+[15:35:34]  |                                     | 
+[15:35:34]  ======================================= 
+[15:35:34]  
+[15:35:34] MySQL >> Uspjesno smo se konektovali na SQL server.
+[15:35:34] 
+----------------------------------
+[15:35:34]  >> IME SERVERA : Treasure RolePlay
+[15:35:34]  >> VERZIJA SKRIPTE : T:RP - x0.1
+[15:35:34]  >> DEVELOPER : kaizer
+[15:35:34]  >> FORUM : www.balkanhub.info
+[15:35:34] ----------------------------------
+
+[15:35:34] Number of vehicle models: 0
+[15:35:47] [connection] 127.0.0.1:63437 requests connection cookie.
+[15:35:48] [connection] incoming connection: 127.0.0.1:63437 id: 0
+[15:35:48] [join] kaizer has joined the server (0:127.0.0.1)
+[15:35:49] clickedid == 0
+[15:35:50] clickedid == 0
+[15:35:50] clickedid == 0
+[15:35:50] clickedid == 0
+[15:35:51] clickedid == 0
+[15:35:51] clickedid == 0
+[15:35:52] clickedid == 0
+[15:35:53] clickedid == 0
+[15:35:53] clickedid == 0
+[15:35:54] clickedid == 0
+[15:35:54] clickedid == 0
+[15:35:55] clickedid == 0
+[15:35:55] clickedid == 0
+[15:35:55] clickedid == 0
+[15:35:56] clickedid == 0
+[15:35:56] clickedid == 0
+[15:36:20] clickedid == 0
+[15:36:21] clickedid == 0
+[15:36:21] clickedid == 0
+[15:36:21] clickedid == 0
+[15:36:21] clickedid == 0
+[15:36:21] clickedid == 0
+[15:36:22] clickedid == 0
+[15:38:07] clickedid == 0
+[15:38:08] clickedid == 0
+[15:38:09] clickedid == 0
+[15:38:09] clickedid == 0
+[15:38:09] clickedid == 0
+[15:38:09] clickedid == 0
+[15:38:09] clickedid == 0
+[15:38:10] clickedid == 0
+[15:38:10] clickedid == 0
+[15:38:10] clickedid == 0
+[15:38:11] clickedid == 0
+[15:38:13] clickedid == 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:50:59] filterscripts = ""  (string)
+[15:50:59] 
+[15:50:59] Server Plugins
+[15:50:59] --------------
+[15:50:59]  Loading plugin: crashdetect
+[15:50:59]   CrashDetect plugin 4.19.4
+[15:50:59]   Loaded.
+[15:50:59]  Loading plugin: streamer
+[15:50:59] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[15:50:59]   Loaded.
+[15:50:59]  Loading plugin: sscanf
+[15:50:59] 
+
+[15:50:59]  ===============================
+
+[15:50:59]       sscanf plugin loaded.     
+
+[15:50:59]          Version:  2.8.3        
+
+[15:50:59]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:50:59]  ===============================
+
+[15:50:59]   Loaded.
+[15:50:59]  Loading plugin: pawncmd
+[15:50:59] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[15:50:59]   Loaded.
+[15:50:59]  Loading plugin: mysql
+[15:50:59]  >> plugin.mysql: R41-4 successfully loaded.
+[15:50:59]   Loaded.
+[15:50:59]  Loaded 5 plugins.
+
+[15:51:00] 
+[15:51:00] Filterscripts
+[15:51:00] ---------------
+[15:51:00]   Loaded 0 filterscripts.
+
+[15:51:00]  
+[15:51:00]  ======================================= 
+[15:51:00]  |                                     | 
+[15:51:00]  |    Optimising code, this may take   | 
+[15:51:00]  |        a little bit of time.        | 
+[15:51:00]  |                                     | 
+[15:51:00]  |            Please wait...           | 
+[15:51:00]  |                                     | 
+[15:51:00]  |=====================================| 
+[15:51:00]  |                                     | 
+[15:51:00]  | Note that these optimisations are   | 
+[15:51:00]  | designed to improve performance     | 
+[15:51:00]  | with the JIT plugin, which you are  | 
+[15:51:00]  | not currently using.  Get it here:  | 
+[15:51:00]  |                                     | 
+[15:51:00]  |      https://git.io/jit-plugin      | 
+[15:51:00]  |                                     | 
+[15:51:00]  ======================================= 
+[15:51:00]  
+[15:51:00]  
+[15:51:00]  
+[15:51:00]  
+[15:51:00]  ======================================= 
+[15:51:00]  |                                     | 
+[15:51:00]  |        YSI version 5.03.0689        | 
+[15:51:00]  |        By Alex "Y_Less" Cole        | 
+[15:51:00]  |                                     | 
+[15:51:00]  ======================================= 
+[15:51:00]  
+[15:51:00] MySQL >> Uspjesno smo se konektovali na SQL server.
+[15:51:00] 
+----------------------------------
+[15:51:00]  >> IME SERVERA : Treasure RolePlay
+[15:51:00]  >> VERZIJA SKRIPTE : T:RP - x0.1
+[15:51:00]  >> DEVELOPER : kaizer
+[15:51:00]  >> FORUM : www.balkanhub.info
+[15:51:00] ----------------------------------
+
+[15:51:00] Number of vehicle models: 0
+[15:51:14] [connection] 127.0.0.1:52081 requests connection cookie.
+[15:51:15] [connection] incoming connection: 127.0.0.1:52081 id: 0
+[15:51:15] [join] kaizer has joined the server (0:127.0.0.1)
+[15:51:16] clickedid == 0
+[15:51:17] clickedid == 0
+[15:51:17] clickedid == 0
+[15:51:18] clickedid == 0
+[15:51:19] clickedid == 0
+[15:51:19] clickedid == 0
+[15:51:20] clickedid == 0
+[15:51:21] clickedid == 0
+[15:51:21] clickedid == 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:52:15] filterscripts = ""  (string)
+[15:52:15] 
+[15:52:15] Server Plugins
+[15:52:15] --------------
+[15:52:15]  Loading plugin: crashdetect
+[15:52:15]   CrashDetect plugin 4.19.4
+[15:52:15]   Loaded.
+[15:52:15]  Loading plugin: streamer
+[15:52:15] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[15:52:15]   Loaded.
+[15:52:15]  Loading plugin: sscanf
+[15:52:15] 
+
+[15:52:15]  ===============================
+
+[15:52:15]       sscanf plugin loaded.     
+
+[15:52:15]          Version:  2.8.3        
+
+[15:52:15]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:52:15]  ===============================
+
+[15:52:15]   Loaded.
+[15:52:15]  Loading plugin: pawncmd
+[15:52:15] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[15:52:15]   Loaded.
+[15:52:15]  Loading plugin: mysql
+[15:52:15]  >> plugin.mysql: R41-4 successfully loaded.
+[15:52:15]   Loaded.
+[15:52:15]  Loaded 5 plugins.
+
+[15:52:15] 
+[15:52:15] Filterscripts
+[15:52:15] ---------------
+[15:52:15]   Loaded 0 filterscripts.
+
+[15:52:15]  
+[15:52:15]  ======================================= 
+[15:52:15]  |                                     | 
+[15:52:15]  |    Optimising code, this may take   | 
+[15:52:15]  |        a little bit of time.        | 
+[15:52:15]  |                                     | 
+[15:52:15]  |            Please wait...           | 
+[15:52:15]  |                                     | 
+[15:52:15]  |=====================================| 
+[15:52:15]  |                                     | 
+[15:52:15]  | Note that these optimisations are   | 
+[15:52:15]  | designed to improve performance     | 
+[15:52:15]  | with the JIT plugin, which you are  | 
+[15:52:15]  | not currently using.  Get it here:  | 
+[15:52:15]  |                                     | 
+[15:52:15]  |      https://git.io/jit-plugin      | 
+[15:52:15]  |                                     | 
+[15:52:15]  ======================================= 
+[15:52:15]  
+[15:52:15]  
+[15:52:15]  
+[15:52:15]  
+[15:52:15]  ======================================= 
+[15:52:15]  |                                     | 
+[15:52:15]  |        YSI version 5.03.0689        | 
+[15:52:15]  |        By Alex "Y_Less" Cole        | 
+[15:52:15]  |                                     | 
+[15:52:15]  ======================================= 
+[15:52:15]  
+[15:52:15] MySQL >> Uspjesno smo se konektovali na SQL server.
+[15:52:15] 
+----------------------------------
+[15:52:15]  >> IME SERVERA : Treasure RolePlay
+[15:52:15]  >> VERZIJA SKRIPTE : T:RP - x0.1
+[15:52:15]  >> DEVELOPER : kaizer
+[15:52:15]  >> FORUM : www.balkanhub.info
+[15:52:15] ----------------------------------
+
+[15:52:15] Number of vehicle models: 0
+[15:52:36] [connection] 127.0.0.1:62395 requests connection cookie.
+[15:52:37] [connection] incoming connection: 127.0.0.1:62395 id: 0
+[15:52:37] [join] kaizer has joined the server (0:127.0.0.1)
+[15:52:38] clickedid 1
+[15:52:38] clickedid == 0
+[15:52:39] clickedid 2
+[15:52:39] clickedid == 0
+[15:52:39] clickedid 2
+[15:52:39] clickedid == 0
+[15:52:40] clickedid 1
+[15:52:40] clickedid == 0
+[15:52:40] clickedid 2
+[15:52:40] clickedid == 0
+[15:52:40] clickedid 1
+[15:52:40] clickedid == 0
+[15:52:41] clickedid 1
+[15:52:41] clickedid == 0
+[15:52:42] clickedid 1
+[15:52:42] clickedid == 0
+[15:52:42] clickedid 2
+[15:52:42] clickedid == 0
+[15:52:43] clickedid 1
+[15:52:43] clickedid == 0
+[15:52:43] clickedid 1
+[15:52:43] clickedid == 0
+[15:52:44] clickedid 1
+[15:52:44] clickedid == 0
+[15:52:44] clickedid 2
+[15:52:44] clickedid == 0
+[15:52:44] clickedid 2
+[15:52:44] clickedid == 0
+[15:52:45] clickedid 1
+[15:52:45] clickedid == 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:54:14] filterscripts = ""  (string)
+[15:54:14] 
+[15:54:14] Server Plugins
+[15:54:14] --------------
+[15:54:14]  Loading plugin: crashdetect
+[15:54:14]   CrashDetect plugin 4.19.4
+[15:54:14]   Loaded.
+[15:54:14]  Loading plugin: streamer
+[15:54:14] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[15:54:14]   Loaded.
+[15:54:14]  Loading plugin: sscanf
+[15:54:14] 
+
+[15:54:14]  ===============================
+
+[15:54:14]       sscanf plugin loaded.     
+
+[15:54:14]          Version:  2.8.3        
+
+[15:54:14]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:54:14]  ===============================
+
+[15:54:14]   Loaded.
+[15:54:14]  Loading plugin: pawncmd
+[15:54:14] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[15:54:14]   Loaded.
+[15:54:14]  Loading plugin: mysql
+[15:54:14]  >> plugin.mysql: R41-4 successfully loaded.
+[15:54:14]   Loaded.
+[15:54:14]  Loaded 5 plugins.
+
+[15:54:14] 
+[15:54:14] Filterscripts
+[15:54:14] ---------------
+[15:54:14]   Loaded 0 filterscripts.
+
+[15:54:14]  
+[15:54:14]  ======================================= 
+[15:54:14]  |                                     | 
+[15:54:14]  |    Optimising code, this may take   | 
+[15:54:14]  |        a little bit of time.        | 
+[15:54:14]  |                                     | 
+[15:54:14]  |            Please wait...           | 
+[15:54:14]  |                                     | 
+[15:54:14]  |=====================================| 
+[15:54:14]  |                                     | 
+[15:54:14]  | Note that these optimisations are   | 
+[15:54:14]  | designed to improve performance     | 
+[15:54:14]  | with the JIT plugin, which you are  | 
+[15:54:14]  | not currently using.  Get it here:  | 
+[15:54:14]  |                                     | 
+[15:54:14]  |      https://git.io/jit-plugin      | 
+[15:54:14]  |                                     | 
+[15:54:14]  ======================================= 
+[15:54:14]  
+[15:54:14]  
+[15:54:14]  
+[15:54:14]  
+[15:54:14]  ======================================= 
+[15:54:14]  |                                     | 
+[15:54:14]  |        YSI version 5.03.0689        | 
+[15:54:14]  |        By Alex "Y_Less" Cole        | 
+[15:54:14]  |                                     | 
+[15:54:14]  ======================================= 
+[15:54:14]  
+[15:54:14] MySQL >> Uspjesno smo se konektovali na SQL server.
+[15:54:14] 
+----------------------------------
+[15:54:14]  >> IME SERVERA : Treasure RolePlay
+[15:54:14]  >> VERZIJA SKRIPTE : T:RP - x0.1
+[15:54:14]  >> DEVELOPER : kaizer
+[15:54:14]  >> FORUM : www.balkanhub.info
+[15:54:14] ----------------------------------
+
+[15:54:14] Number of vehicle models: 0
+[15:54:27] [connection] 127.0.0.1:54268 requests connection cookie.
+[15:54:28] [connection] incoming connection: 127.0.0.1:54268 id: 0
+[15:54:29] [join] kaizer has joined the server (0:127.0.0.1)
+[15:54:33] clickedid 2
+[15:54:33] clickedid == 0
+[15:54:39] clickedid == 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:56:55] filterscripts = ""  (string)
+[15:56:55] 
+[15:56:55] Server Plugins
+[15:56:55] --------------
+[15:56:55]  Loading plugin: crashdetect
+[15:56:55]   CrashDetect plugin 4.19.4
+[15:56:55]   Loaded.
+[15:56:55]  Loading plugin: streamer
+[15:56:55] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[15:56:55]   Loaded.
+[15:56:55]  Loading plugin: sscanf
+[15:56:55] 
+
+[15:56:55]  ===============================
+
+[15:56:55]       sscanf plugin loaded.     
+
+[15:56:55]          Version:  2.8.3        
+
+[15:56:55]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:56:55]  ===============================
+
+[15:56:55]   Loaded.
+[15:56:55]  Loading plugin: pawncmd
+[15:56:55] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[15:56:55]   Loaded.
+[15:56:55]  Loading plugin: mysql
+[15:56:55]  >> plugin.mysql: R41-4 successfully loaded.
+[15:56:55]   Loaded.
+[15:56:55]  Loaded 5 plugins.
+
+[15:56:55] 
+[15:56:55] Filterscripts
+[15:56:55] ---------------
+[15:56:55]   Loaded 0 filterscripts.
+
+[15:56:55]  
+[15:56:55]  ======================================= 
+[15:56:55]  |                                     | 
+[15:56:55]  |    Optimising code, this may take   | 
+[15:56:55]  |        a little bit of time.        | 
+[15:56:55]  |                                     | 
+[15:56:55]  |            Please wait...           | 
+[15:56:55]  |                                     | 
+[15:56:55]  |=====================================| 
+[15:56:55]  |                                     | 
+[15:56:55]  | Note that these optimisations are   | 
+[15:56:55]  | designed to improve performance     | 
+[15:56:55]  | with the JIT plugin, which you are  | 
+[15:56:55]  | not currently using.  Get it here:  | 
+[15:56:55]  |                                     | 
+[15:56:55]  |      https://git.io/jit-plugin      | 
+[15:56:55]  |                                     | 
+[15:56:55]  ======================================= 
+[15:56:55]  
+[15:56:55]  
+[15:56:55]  
+[15:56:55]  
+[15:56:55]  ======================================= 
+[15:56:55]  |                                     | 
+[15:56:55]  |        YSI version 5.03.0689        | 
+[15:56:55]  |        By Alex "Y_Less" Cole        | 
+[15:56:55]  |                                     | 
+[15:56:55]  ======================================= 
+[15:56:55]  
+[15:56:55] MySQL >> Uspjesno smo se konektovali na SQL server.
+[15:56:55] 
+----------------------------------
+[15:56:55]  >> IME SERVERA : Treasure RolePlay
+[15:56:55]  >> VERZIJA SKRIPTE : T:RP - x0.1
+[15:56:55]  >> DEVELOPER : kaizer
+[15:56:55]  >> FORUM : www.balkanhub.info
+[15:56:55] ----------------------------------
+
+[15:56:55] Number of vehicle models: 0
+[15:57:56] [connection] 127.0.0.1:54997 requests connection cookie.
+[15:57:57] [connection] incoming connection: 127.0.0.1:54997 id: 0
+[15:57:57] [join] kaizer has joined the server (0:127.0.0.1)
+[15:58:11] [part] kaizer has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:58:50] filterscripts = ""  (string)
+[15:58:50] 
+[15:58:50] Server Plugins
+[15:58:50] --------------
+[15:58:50]  Loading plugin: crashdetect
+[15:58:50]   CrashDetect plugin 4.19.4
+[15:58:50]   Loaded.
+[15:58:50]  Loading plugin: streamer
+[15:58:50] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[15:58:50]   Loaded.
+[15:58:50]  Loading plugin: sscanf
+[15:58:50] 
+
+[15:58:50]  ===============================
+
+[15:58:50]       sscanf plugin loaded.     
+
+[15:58:50]          Version:  2.8.3        
+
+[15:58:50]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:58:50]  ===============================
+
+[15:58:50]   Loaded.
+[15:58:50]  Loading plugin: pawncmd
+[15:58:50] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[15:58:50]   Loaded.
+[15:58:50]  Loading plugin: mysql
+[15:58:50]  >> plugin.mysql: R41-4 successfully loaded.
+[15:58:50]   Loaded.
+[15:58:50]  Loaded 5 plugins.
+
+[15:58:51] 
+[15:58:51] Filterscripts
+[15:58:51] ---------------
+[15:58:51]   Loaded 0 filterscripts.
+
+[15:58:51]  
+[15:58:51]  ======================================= 
+[15:58:51]  |                                     | 
+[15:58:51]  |    Optimising code, this may take   | 
+[15:58:51]  |        a little bit of time.        | 
+[15:58:51]  |                                     | 
+[15:58:51]  |            Please wait...           | 
+[15:58:51]  |                                     | 
+[15:58:51]  |=====================================| 
+[15:58:51]  |                                     | 
+[15:58:51]  | Note that these optimisations are   | 
+[15:58:51]  | designed to improve performance     | 
+[15:58:51]  | with the JIT plugin, which you are  | 
+[15:58:51]  | not currently using.  Get it here:  | 
+[15:58:51]  |                                     | 
+[15:58:51]  |      https://git.io/jit-plugin      | 
+[15:58:51]  |                                     | 
+[15:58:51]  ======================================= 
+[15:58:51]  
+[15:58:51]  
+[15:58:51]  
+[15:58:51]  
+[15:58:51]  ======================================= 
+[15:58:51]  |                                     | 
+[15:58:51]  |        YSI version 5.03.0689        | 
+[15:58:51]  |        By Alex "Y_Less" Cole        | 
+[15:58:51]  |                                     | 
+[15:58:51]  ======================================= 
+[15:58:51]  
+[15:58:51] MySQL >> Uspjesno smo se konektovali na SQL server.
+[15:58:51] 
+----------------------------------
+[15:58:51]  >> IME SERVERA : Treasure RolePlay
+[15:58:51]  >> VERZIJA SKRIPTE : T:RP - x0.1
+[15:58:51]  >> DEVELOPER : kaizer
+[15:58:51]  >> FORUM : www.balkanhub.info
+[15:58:51] ----------------------------------
+
+[15:58:51] Number of vehicle models: 0
+[15:59:14] [connection] 127.0.0.1:55621 requests connection cookie.
+[15:59:15] [connection] incoming connection: 127.0.0.1:55621 id: 0
+[15:59:15] [join] kaizer has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:00:19] filterscripts = ""  (string)
+[16:00:19] 
+[16:00:19] Server Plugins
+[16:00:19] --------------
+[16:00:19]  Loading plugin: crashdetect
+[16:00:19]   CrashDetect plugin 4.19.4
+[16:00:19]   Loaded.
+[16:00:19]  Loading plugin: streamer
+[16:00:19] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[16:00:19]   Loaded.
+[16:00:19]  Loading plugin: sscanf
+[16:00:19] 
+
+[16:00:19]  ===============================
+
+[16:00:19]       sscanf plugin loaded.     
+
+[16:00:19]          Version:  2.8.3        
+
+[16:00:19]   (c) 2018 Alex "Y_Less" Cole  
+
+[16:00:19]  ===============================
+
+[16:00:19]   Loaded.
+[16:00:19]  Loading plugin: pawncmd
+[16:00:19] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[16:00:19]   Loaded.
+[16:00:19]  Loading plugin: mysql
+[16:00:19]  >> plugin.mysql: R41-4 successfully loaded.
+[16:00:19]   Loaded.
+[16:00:19]  Loaded 5 plugins.
+
+[16:00:19] 
+[16:00:19] Filterscripts
+[16:00:19] ---------------
+[16:00:19]   Loaded 0 filterscripts.
+
+[16:00:19]  
+[16:00:19]  ======================================= 
+[16:00:19]  |                                     | 
+[16:00:19]  |    Optimising code, this may take   | 
+[16:00:19]  |        a little bit of time.        | 
+[16:00:19]  |                                     | 
+[16:00:19]  |            Please wait...           | 
+[16:00:19]  |                                     | 
+[16:00:19]  |=====================================| 
+[16:00:19]  |                                     | 
+[16:00:19]  | Note that these optimisations are   | 
+[16:00:19]  | designed to improve performance     | 
+[16:00:19]  | with the JIT plugin, which you are  | 
+[16:00:19]  | not currently using.  Get it here:  | 
+[16:00:19]  |                                     | 
+[16:00:19]  |      https://git.io/jit-plugin      | 
+[16:00:19]  |                                     | 
+[16:00:19]  ======================================= 
+[16:00:19]  
+[16:00:20]  
+[16:00:20]  
+[16:00:20]  
+[16:00:20]  ======================================= 
+[16:00:20]  |                                     | 
+[16:00:20]  |        YSI version 5.03.0689        | 
+[16:00:20]  |        By Alex "Y_Less" Cole        | 
+[16:00:20]  |                                     | 
+[16:00:20]  ======================================= 
+[16:00:20]  
+[16:00:20] MySQL >> Uspjesno smo se konektovali na SQL server.
+[16:00:20] 
+----------------------------------
+[16:00:20]  >> IME SERVERA : Treasure RolePlay
+[16:00:20]  >> VERZIJA SKRIPTE : T:RP - x0.1
+[16:00:20]  >> DEVELOPER : kaizer
+[16:00:20]  >> FORUM : www.balkanhub.info
+[16:00:20] ----------------------------------
+
+[16:00:20] Number of vehicle models: 0
+[16:00:46] [connection] 127.0.0.1:54536 requests connection cookie.
+[16:00:47] [connection] incoming connection: 127.0.0.1:54536 id: 0
+[16:00:47] [join] Ime_Prezime has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:05:17] filterscripts = ""  (string)
+[14:05:17] 
+[14:05:17] Server Plugins
+[14:05:17] --------------
+[14:05:17]  Loading plugin: crashdetect
+[14:05:17]   CrashDetect plugin 4.19.4
+[14:05:17]   Loaded.
+[14:05:17]  Loading plugin: streamer
+[14:05:17] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[14:05:17]   Loaded.
+[14:05:17]  Loading plugin: sscanf
+[14:05:17] 
+
+[14:05:17]  ===============================
+
+[14:05:17]       sscanf plugin loaded.     
+
+[14:05:17]          Version:  2.8.3        
+
+[14:05:17]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:05:17]  ===============================
+
+[14:05:17]   Loaded.
+[14:05:17]  Loading plugin: pawncmd
+[14:05:18] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[14:05:18]   Loaded.
+[14:05:18]  Loading plugin: mysql
+[14:05:19]  >> plugin.mysql: R41-4 successfully loaded.
+[14:05:19]   Loaded.
+[14:05:19]  Loaded 5 plugins.
+
+[14:05:19] 
+[14:05:19] Filterscripts
+[14:05:19] ---------------
+[14:05:19]   Loaded 0 filterscripts.
+
+[14:05:19]  
+[14:05:19]  ======================================= 
+[14:05:19]  |                                     | 
+[14:05:19]  |    Optimising code, this may take   | 
+[14:05:19]  |        a little bit of time.        | 
+[14:05:19]  |                                     | 
+[14:05:19]  |            Please wait...           | 
+[14:05:19]  |                                     | 
+[14:05:19]  |=====================================| 
+[14:05:19]  |                                     | 
+[14:05:19]  | Note that these optimisations are   | 
+[14:05:19]  | designed to improve performance     | 
+[14:05:19]  | with the JIT plugin, which you are  | 
+[14:05:19]  | not currently using.  Get it here:  | 
+[14:05:19]  |                                     | 
+[14:05:19]  |      https://git.io/jit-plugin      | 
+[14:05:19]  |                                     | 
+[14:05:19]  ======================================= 
+[14:05:19]  
+[14:05:19]  
+[14:05:19]  
+[14:05:19]  
+[14:05:19]  ======================================= 
+[14:05:19]  |                                     | 
+[14:05:19]  |        YSI version 5.03.0689        | 
+[14:05:19]  |        By Alex "Y_Less" Cole        | 
+[14:05:19]  |                                     | 
+[14:05:19]  ======================================= 
+[14:05:19]  
+[14:05:19] MySQL >> Uspjesno smo se konektovali na SQL server.
+[14:05:19] 
+----------------------------------
+[14:05:19]  >> IME SERVERA : Treasure RolePlay
+[14:05:19]  >> VERZIJA SKRIPTE : T:RP - x0.1
+[14:05:19]  >> DEVELOPER : kaizer
+[14:05:19]  >> FORUM : www.balkanhub.info
+[14:05:19] ----------------------------------
+
+[14:05:19] Number of vehicle models: 0
+[14:05:58] [connection] 127.0.0.1:60981 requests connection cookie.
+[14:05:59] [connection] incoming connection: 127.0.0.1:60981 id: 0
+[14:05:59] [join] kaizer has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:23:30] filterscripts = ""  (string)
+[14:23:30] 
+[14:23:30] Server Plugins
+[14:23:30] --------------
+[14:23:30]  Loading plugin: crashdetect
+[14:23:30]   CrashDetect plugin 4.19.4
+[14:23:30]   Loaded.
+[14:23:30]  Loading plugin: streamer
+[14:23:30] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[14:23:30]   Loaded.
+[14:23:30]  Loading plugin: sscanf
+[14:23:30] 
+
+[14:23:30]  ===============================
+
+[14:23:30]       sscanf plugin loaded.     
+
+[14:23:30]          Version:  2.8.3        
+
+[14:23:30]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:23:30]  ===============================
+
+[14:23:30]   Loaded.
+[14:23:30]  Loading plugin: pawncmd
+[14:23:30] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[14:23:30]   Loaded.
+[14:23:30]  Loading plugin: mysql
+[14:23:30]  >> plugin.mysql: R41-4 successfully loaded.
+[14:23:30]   Loaded.
+[14:23:30]  Loaded 5 plugins.
+
+[14:23:30] 
+[14:23:30] Filterscripts
+[14:23:30] ---------------
+[14:23:30]   Loaded 0 filterscripts.
+
+[14:23:30]  
+[14:23:30]  ======================================= 
+[14:23:30]  |                                     | 
+[14:23:30]  |    Optimising code, this may take   | 
+[14:23:30]  |        a little bit of time.        | 
+[14:23:30]  |                                     | 
+[14:23:30]  |            Please wait...           | 
+[14:23:30]  |                                     | 
+[14:23:30]  |=====================================| 
+[14:23:30]  |                                     | 
+[14:23:30]  | Note that these optimisations are   | 
+[14:23:30]  | designed to improve performance     | 
+[14:23:30]  | with the JIT plugin, which you are  | 
+[14:23:30]  | not currently using.  Get it here:  | 
+[14:23:30]  |                                     | 
+[14:23:30]  |      https://git.io/jit-plugin      | 
+[14:23:30]  |                                     | 
+[14:23:30]  ======================================= 
+[14:23:30]  
+[14:23:31]  
+[14:23:31]  
+[14:23:31]  
+[14:23:31]  ======================================= 
+[14:23:31]  |                                     | 
+[14:23:31]  |        YSI version 5.03.0689        | 
+[14:23:31]  |        By Alex "Y_Less" Cole        | 
+[14:23:31]  |                                     | 
+[14:23:31]  ======================================= 
+[14:23:31]  
+[14:23:31] MySQL >> Uspjesno smo se konektovali na SQL server.
+[14:23:31] 
+----------------------------------
+[14:23:31]  >> IME SERVERA : Treasure RolePlay
+[14:23:31]  >> VERZIJA SKRIPTE : T:RP - x0.1
+[14:23:31]  >> DEVELOPER : kaizer
+[14:23:31]  >> FORUM : www.balkanhub.info
+[14:23:31] ----------------------------------
+
+[14:23:31] Number of vehicle models: 0
+[14:23:53] [connection] 127.0.0.1:62966 requests connection cookie.
+[14:23:54] [connection] incoming connection: 127.0.0.1:62966 id: 0
+[14:23:55] [join] kaizer has joined the server (0:127.0.0.1)
+[14:24:26] [part] kaizer has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:30:35] filterscripts = ""  (string)
+[14:30:35] 
+[14:30:35] Server Plugins
+[14:30:35] --------------
+[14:30:35]  Loading plugin: crashdetect
+[14:30:35]   CrashDetect plugin 4.19.4
+[14:30:35]   Loaded.
+[14:30:35]  Loading plugin: streamer
+[14:30:35] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[14:30:35]   Loaded.
+[14:30:35]  Loading plugin: sscanf
+[14:30:35] 
+
+[14:30:35]  ===============================
+
+[14:30:35]       sscanf plugin loaded.     
+
+[14:30:35]          Version:  2.8.3        
+
+[14:30:35]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:30:35]  ===============================
+
+[14:30:35]   Loaded.
+[14:30:35]  Loading plugin: pawncmd
+[14:30:35] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[14:30:35]   Loaded.
+[14:30:35]  Loading plugin: mysql
+[14:30:35]  >> plugin.mysql: R41-4 successfully loaded.
+[14:30:35]   Loaded.
+[14:30:35]  Loaded 5 plugins.
+
+[14:30:35] 
+[14:30:35] Filterscripts
+[14:30:35] ---------------
+[14:30:35]   Loaded 0 filterscripts.
+
+[14:30:35]  
+[14:30:35]  ======================================= 
+[14:30:35]  |                                     | 
+[14:30:35]  |    Optimising code, this may take   | 
+[14:30:35]  |        a little bit of time.        | 
+[14:30:35]  |                                     | 
+[14:30:35]  |            Please wait...           | 
+[14:30:35]  |                                     | 
+[14:30:35]  |=====================================| 
+[14:30:35]  |                                     | 
+[14:30:35]  | Note that these optimisations are   | 
+[14:30:35]  | designed to improve performance     | 
+[14:30:35]  | with the JIT plugin, which you are  | 
+[14:30:36]  | not currently using.  Get it here:  | 
+[14:30:36]  |                                     | 
+[14:30:36]  |      https://git.io/jit-plugin      | 
+[14:30:36]  |                                     | 
+[14:30:36]  ======================================= 
+[14:30:36]  
+[14:30:36]  
+[14:30:36]  
+[14:30:36]  
+[14:30:36]  ======================================= 
+[14:30:36]  |                                     | 
+[14:30:36]  |        YSI version 5.03.0689        | 
+[14:30:36]  |        By Alex "Y_Less" Cole        | 
+[14:30:36]  |                                     | 
+[14:30:36]  ======================================= 
+[14:30:36]  
+[14:30:36] MySQL >> Uspjesno smo se konektovali na SQL server.
+[14:30:36] 
+----------------------------------
+[14:30:36]  >> IME SERVERA : Treasure RolePlay
+[14:30:36]  >> VERZIJA SKRIPTE : T:RP - x0.1
+[14:30:36]  >> DEVELOPER : kaizer
+[14:30:36]  >> FORUM : www.balkanhub.info
+[14:30:36] ----------------------------------
+
+[14:30:36] Number of vehicle models: 0
+[14:31:21] [connection] 127.0.0.1:50588 requests connection cookie.
+[14:31:22] [connection] incoming connection: 127.0.0.1:50588 id: 0
+[14:31:22] [join] kaizer has joined the server (0:127.0.0.1)
+[14:32:01] kaizer - kaizer, razlog: psovanje
+[14:32:01] [part] kaizer has left the server (0:2)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:54:25] filterscripts = ""  (string)
+[14:54:25] 
+[14:54:25] Server Plugins
+[14:54:25] --------------
+[14:54:25]  Loading plugin: crashdetect
+[14:54:25]   CrashDetect plugin 4.19.4
+[14:54:25]   Loaded.
+[14:54:25]  Loading plugin: streamer
+[14:54:25] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[14:54:25]   Loaded.
+[14:54:25]  Loading plugin: sscanf
+[14:54:25] 
+
+[14:54:25]  ===============================
+
+[14:54:25]       sscanf plugin loaded.     
+
+[14:54:25]          Version:  2.8.3        
+
+[14:54:25]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:54:25]  ===============================
+
+[14:54:25]   Loaded.
+[14:54:25]  Loading plugin: pawncmd
+[14:54:25] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[14:54:25]   Loaded.
+[14:54:25]  Loading plugin: mysql
+[14:54:25]  >> plugin.mysql: R41-4 successfully loaded.
+[14:54:25]   Loaded.
+[14:54:25]  Loaded 5 plugins.
+
+[14:54:25] 
+[14:54:25] Filterscripts
+[14:54:25] ---------------
+[14:54:25]   Loaded 0 filterscripts.
+
+[14:54:25]  
+[14:54:25]  ======================================= 
+[14:54:25]  |                                     | 
+[14:54:25]  |    Optimising code, this may take   | 
+[14:54:25]  |        a little bit of time.        | 
+[14:54:25]  |                                     | 
+[14:54:25]  |            Please wait...           | 
+[14:54:25]  |                                     | 
+[14:54:25]  |=====================================| 
+[14:54:25]  |                                     | 
+[14:54:25]  | Note that these optimisations are   | 
+[14:54:25]  | designed to improve performance     | 
+[14:54:25]  | with the JIT plugin, which you are  | 
+[14:54:25]  | not currently using.  Get it here:  | 
+[14:54:25]  |                                     | 
+[14:54:25]  |      https://git.io/jit-plugin      | 
+[14:54:25]  |                                     | 
+[14:54:25]  ======================================= 
+[14:54:25]  
+[14:54:25]  
+[14:54:25]  
+[14:54:25]  
+[14:54:25]  ======================================= 
+[14:54:25]  |                                     | 
+[14:54:25]  |        YSI version 5.03.0689        | 
+[14:54:25]  |        By Alex "Y_Less" Cole        | 
+[14:54:25]  |                                     | 
+[14:54:25]  ======================================= 
+[14:54:25]  
+[14:54:25] MySQL >> Uspjesno smo se konektovali na SQL server.
+[14:54:25] 
+----------------------------------
+[14:54:25]  >> IME SERVERA : Treasure RolePlay
+[14:54:25]  >> VERZIJA SKRIPTE : T:RP - x0.1
+[14:54:25]  >> DEVELOPER : kaizer
+[14:54:25]  >> FORUM : www.balkanhub.info
+[14:54:25] ----------------------------------
+
+[14:54:25] Number of vehicle models: 0
+[14:55:20] [connection] 127.0.0.1:54448 requests connection cookie.
+[14:55:21] [connection] incoming connection: 127.0.0.1:54448 id: 0
+[14:55:21] [join] kaizer has joined the server (0:127.0.0.1)
+[14:55:44] [part] kaizer has left the server (0:1)
+[14:56:11] [connection] 127.0.0.1:63887 requests connection cookie.
+[14:56:12] [connection] incoming connection: 127.0.0.1:63887 id: 0
+[14:56:12] [join] kaizer has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:01:32] filterscripts = ""  (string)
+[15:01:32] 
+[15:01:32] Server Plugins
+[15:01:32] --------------
+[15:01:32]  Loading plugin: crashdetect
+[15:01:32]   CrashDetect plugin 4.19.4
+[15:01:32]   Loaded.
+[15:01:32]  Loading plugin: streamer
+[15:01:32] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[15:01:32]   Loaded.
+[15:01:32]  Loading plugin: sscanf
+[15:01:32] 
+
+[15:01:32]  ===============================
+
+[15:01:32]       sscanf plugin loaded.     
+
+[15:01:32]          Version:  2.8.3        
+
+[15:01:32]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:01:32]  ===============================
+
+[15:01:32]   Loaded.
+[15:01:32]  Loading plugin: pawncmd
+[15:01:32] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[15:01:32]   Loaded.
+[15:01:32]  Loading plugin: mysql
+[15:01:32]  >> plugin.mysql: R41-4 successfully loaded.
+[15:01:32]   Loaded.
+[15:01:32]  Loaded 5 plugins.
+
+[15:01:32] 
+[15:01:32] Filterscripts
+[15:01:32] ---------------
+[15:01:32]   Loaded 0 filterscripts.
+
+[15:01:32]  
+[15:01:32]  ======================================= 
+[15:01:32]  |                                     | 
+[15:01:32]  |    Optimising code, this may take   | 
+[15:01:32]  |        a little bit of time.        | 
+[15:01:32]  |                                     | 
+[15:01:32]  |            Please wait...           | 
+[15:01:32]  |                                     | 
+[15:01:32]  |=====================================| 
+[15:01:32]  |                                     | 
+[15:01:32]  | Note that these optimisations are   | 
+[15:01:32]  | designed to improve performance     | 
+[15:01:32]  | with the JIT plugin, which you are  | 
+[15:01:32]  | not currently using.  Get it here:  | 
+[15:01:32]  |                                     | 
+[15:01:32]  |      https://git.io/jit-plugin      | 
+[15:01:32]  |                                     | 
+[15:01:32]  ======================================= 
+[15:01:32]  
+[15:01:33]  
+[15:01:33]  
+[15:01:33]  
+[15:01:33]  ======================================= 
+[15:01:33]  |                                     | 
+[15:01:33]  |        YSI version 5.03.0689        | 
+[15:01:33]  |        By Alex "Y_Less" Cole        | 
+[15:01:33]  |                                     | 
+[15:01:33]  ======================================= 
+[15:01:33]  
+[15:01:33] MySQL >> Uspjesno smo se konektovali na SQL server.
+[15:01:33] 
+----------------------------------
+[15:01:33]  >> IME SERVERA : Treasure RolePlay
+[15:01:33]  >> VERZIJA SKRIPTE : T:RP - x0.1
+[15:01:33]  >> DEVELOPER : kaizer
+[15:01:33]  >> FORUM : www.balkanhub.info
+[15:01:33] ----------------------------------
+
+[15:01:33] Number of vehicle models: 0
+[15:01:41] [connection] 127.0.0.1:56375 requests connection cookie.
+[15:01:42] [connection] incoming connection: 127.0.0.1:56375 id: 0
+[15:01:42] [join] kaizer has joined the server (0:127.0.0.1)
+[15:02:26] Admin kaizer je kikovao kaizer, razlog: psovanje
+[15:02:26] [part] kaizer has left the server (0:2)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:47:19] filterscripts = ""  (string)
+[14:47:19] 
+[14:47:19] Server Plugins
+[14:47:19] --------------
+[14:47:19]  Loading plugin: crashdetect
+[14:47:20]   CrashDetect plugin 4.19.4
+[14:47:20]   Loaded.
+[14:47:20]  Loading plugin: streamer
+[14:47:21] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[14:47:21]   Loaded.
+[14:47:21]  Loading plugin: sscanf
+[14:47:21] 
+
+[14:47:21]  ===============================
+
+[14:47:21]       sscanf plugin loaded.     
+
+[14:47:21]          Version:  2.8.3        
+
+[14:47:21]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:47:21]  ===============================
+
+[14:47:21]   Loaded.
+[14:47:21]  Loading plugin: pawncmd
+[14:47:22] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[14:47:22]   Loaded.
+[14:47:22]  Loading plugin: mysql
+[14:47:24]  >> plugin.mysql: R41-4 successfully loaded.
+[14:47:24]   Loaded.
+[14:47:24]  Loaded 5 plugins.
+
+[14:47:24] 
+[14:47:24] Filterscripts
+[14:47:24] ---------------
+[14:47:24]   Loaded 0 filterscripts.
+
+[14:47:24]  
+[14:47:24]  ======================================= 
+[14:47:24]  |                                     | 
+[14:47:24]  |    Optimising code, this may take   | 
+[14:47:24]  |        a little bit of time.        | 
+[14:47:24]  |                                     | 
+[14:47:24]  |            Please wait...           | 
+[14:47:24]  |                                     | 
+[14:47:24]  |=====================================| 
+[14:47:24]  |                                     | 
+[14:47:24]  | Note that these optimisations are   | 
+[14:47:24]  | designed to improve performance     | 
+[14:47:24]  | with the JIT plugin, which you are  | 
+[14:47:24]  | not currently using.  Get it here:  | 
+[14:47:24]  |                                     | 
+[14:47:24]  |      https://git.io/jit-plugin      | 
+[14:47:24]  |                                     | 
+[14:47:24]  ======================================= 
+[14:47:24]  
+[14:47:24]  
+[14:47:24]  
+[14:47:24]  
+[14:47:24]  ======================================= 
+[14:47:24]  |                                     | 
+[14:47:24]  |        YSI version 5.03.0689        | 
+[14:47:24]  |        By Alex "Y_Less" Cole        | 
+[14:47:24]  |                                     | 
+[14:47:24]  ======================================= 
+[14:47:24]  
+[14:47:25] MySQL >> Uspjesno smo se konektovali na SQL server.
+[14:47:25] 
+----------------------------------
+[14:47:25]  >> IME SERVERA : Treasure RolePlay
+[14:47:25]  >> VERZIJA SKRIPTE : T:RP - x0.1
+[14:47:25]  >> DEVELOPER : kaizer
+[14:47:25]  >> FORUM : www.balkanhub.info
+[14:47:25] ----------------------------------
+
+[14:47:25] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:03:10] filterscripts = ""  (string)
+[20:03:10] 
+[20:03:10] Server Plugins
+[20:03:10] --------------
+[20:03:10]  Loading plugin: crashdetect
+[20:03:10]   CrashDetect plugin 4.19.4
+[20:03:10]   Loaded.
+[20:03:10]  Loading plugin: streamer
+[20:03:10] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[20:03:10]   Loaded.
+[20:03:10]  Loading plugin: sscanf
+[20:03:10] 
+
+[20:03:10]  ===============================
+
+[20:03:10]       sscanf plugin loaded.     
+
+[20:03:10]          Version:  2.8.3        
+
+[20:03:10]   (c) 2018 Alex "Y_Less" Cole  
+
+[20:03:10]  ===============================
+
+[20:03:10]   Loaded.
+[20:03:10]  Loading plugin: pawncmd
+[20:03:10] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[20:03:10]   Loaded.
+[20:03:10]  Loading plugin: mysql
+[20:03:11]  >> plugin.mysql: R41-4 successfully loaded.
+[20:03:11]   Loaded.
+[20:03:11]  Loaded 5 plugins.
+
+[20:03:11] 
+[20:03:11] Filterscripts
+[20:03:11] ---------------
+[20:03:11]   Loaded 0 filterscripts.
+
+[20:03:11]  
+[20:03:11]  ======================================= 
+[20:03:11]  |                                     | 
+[20:03:11]  |    Optimising code, this may take   | 
+[20:03:11]  |        a little bit of time.        | 
+[20:03:11]  |                                     | 
+[20:03:11]  |            Please wait...           | 
+[20:03:11]  |                                     | 
+[20:03:11]  |=====================================| 
+[20:03:11]  |                                     | 
+[20:03:11]  | Note that these optimisations are   | 
+[20:03:11]  | designed to improve performance     | 
+[20:03:11]  | with the JIT plugin, which you are  | 
+[20:03:11]  | not currently using.  Get it here:  | 
+[20:03:11]  |                                     | 
+[20:03:11]  |      https://git.io/jit-plugin      | 
+[20:03:11]  |                                     | 
+[20:03:11]  ======================================= 
+[20:03:11]  
+[20:03:11]  
+[20:03:11]  
+[20:03:11]  
+[20:03:11]  ======================================= 
+[20:03:11]  |                                     | 
+[20:03:11]  |        YSI version 5.03.0689        | 
+[20:03:11]  |        By Alex "Y_Less" Cole        | 
+[20:03:11]  |                                     | 
+[20:03:11]  ======================================= 
+[20:03:11]  
+[20:03:11] MySQL >> Uspjesno smo se konektovali na SQL server.
+[20:03:12] 
+----------------------------------
+[20:03:12]  >> IME SERVERA : Treasure RolePlay
+[20:03:12]  >> VERZIJA SKRIPTE : T:RP - x0.1
+[20:03:12]  >> DEVELOPER : kaizer
+[20:03:12]  >> FORUM : www.balkanhub.info
+[20:03:12] ----------------------------------
+
+[20:03:12] Number of vehicle models: 0
+[20:05:16] [connection] 127.0.0.1:59411 requests connection cookie.
+[20:05:17] [connection] incoming connection: 127.0.0.1:59411 id: 0
+[20:05:18] [join] kaizer has joined the server (0:127.0.0.1)
+[20:06:14] Admin kaizer je banovao kaizer, razlog: test
+[20:06:15] [part] kaizer has left the server (0:2)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:07:04] filterscripts = ""  (string)
+[20:07:04] 
+[20:07:04] Server Plugins
+[20:07:04] --------------
+[20:07:04]  Loading plugin: crashdetect
+[20:07:04]   CrashDetect plugin 4.19.4
+[20:07:04]   Loaded.
+[20:07:04]  Loading plugin: streamer
+[20:07:04] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[20:07:04]   Loaded.
+[20:07:04]  Loading plugin: sscanf
+[20:07:04] 
+
+[20:07:04]  ===============================
+
+[20:07:04]       sscanf plugin loaded.     
+
+[20:07:04]          Version:  2.8.3        
+
+[20:07:04]   (c) 2018 Alex "Y_Less" Cole  
+
+[20:07:04]  ===============================
+
+[20:07:04]   Loaded.
+[20:07:04]  Loading plugin: pawncmd
+[20:07:04] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[20:07:04]   Loaded.
+[20:07:04]  Loading plugin: mysql
+[20:07:04]  >> plugin.mysql: R41-4 successfully loaded.
+[20:07:04]   Loaded.
+[20:07:04]  Loaded 5 plugins.
+
+[20:07:04] 
+[20:07:04] Filterscripts
+[20:07:04] ---------------
+[20:07:04]   Loaded 0 filterscripts.
+
+[20:07:04]  
+[20:07:04]  ======================================= 
+[20:07:04]  |                                     | 
+[20:07:04]  |    Optimising code, this may take   | 
+[20:07:04]  |        a little bit of time.        | 
+[20:07:04]  |                                     | 
+[20:07:04]  |            Please wait...           | 
+[20:07:04]  |                                     | 
+[20:07:04]  |=====================================| 
+[20:07:04]  |                                     | 
+[20:07:04]  | Note that these optimisations are   | 
+[20:07:04]  | designed to improve performance     | 
+[20:07:04]  | with the JIT plugin, which you are  | 
+[20:07:04]  | not currently using.  Get it here:  | 
+[20:07:04]  |                                     | 
+[20:07:04]  |      https://git.io/jit-plugin      | 
+[20:07:04]  |                                     | 
+[20:07:04]  ======================================= 
+[20:07:04]  
+[20:07:04]  
+[20:07:04]  
+[20:07:04]  
+[20:07:04]  ======================================= 
+[20:07:04]  |                                     | 
+[20:07:04]  |        YSI version 5.03.0689        | 
+[20:07:04]  |        By Alex "Y_Less" Cole        | 
+[20:07:04]  |                                     | 
+[20:07:04]  ======================================= 
+[20:07:04]  
+[20:07:04] MySQL >> Uspjesno smo se konektovali na SQL server.
+[20:07:04] 
+----------------------------------
+[20:07:04]  >> IME SERVERA : Treasure RolePlay
+[20:07:04]  >> VERZIJA SKRIPTE : T:RP - x0.1
+[20:07:04]  >> DEVELOPER : kaizer
+[20:07:04]  >> FORUM : www.balkanhub.info
+[20:07:04] ----------------------------------
+
+[20:07:04] Number of vehicle models: 0
+[20:07:31] [connection] 127.0.0.1:49980 requests connection cookie.
+[20:07:32] [connection] incoming connection: 127.0.0.1:49980 id: 0
+[20:07:33] [join] kaizer has joined the server (0:127.0.0.1)
+[20:07:34] [part] kaizer has left the server (0:2)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:08:03] filterscripts = ""  (string)
+[20:08:03] 
+[20:08:03] Server Plugins
+[20:08:03] --------------
+[20:08:03]  Loading plugin: crashdetect
+[20:08:03]   CrashDetect plugin 4.19.4
+[20:08:03]   Loaded.
+[20:08:03]  Loading plugin: streamer
+[20:08:03] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[20:08:03]   Loaded.
+[20:08:03]  Loading plugin: sscanf
+[20:08:03] 
+
+[20:08:03]  ===============================
+
+[20:08:03]       sscanf plugin loaded.     
+
+[20:08:03]          Version:  2.8.3        
+
+[20:08:03]   (c) 2018 Alex "Y_Less" Cole  
+
+[20:08:03]  ===============================
+
+[20:08:03]   Loaded.
+[20:08:03]  Loading plugin: pawncmd
+[20:08:03] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[20:08:03]   Loaded.
+[20:08:03]  Loading plugin: mysql
+[20:08:03]  >> plugin.mysql: R41-4 successfully loaded.
+[20:08:03]   Loaded.
+[20:08:03]  Loaded 5 plugins.
+
+[20:08:03] 
+[20:08:03] Ban list
+[20:08:03] --------
+[20:08:03]  Loaded: samp.ban
+[20:08:03] 
+[20:08:03] 
+[20:08:03] Filterscripts
+[20:08:03] ---------------
+[20:08:03]   Loaded 0 filterscripts.
+
+[20:08:03]  
+[20:08:03]  ======================================= 
+[20:08:03]  |                                     | 
+[20:08:03]  |    Optimising code, this may take   | 
+[20:08:03]  |        a little bit of time.        | 
+[20:08:03]  |                                     | 
+[20:08:03]  |            Please wait...           | 
+[20:08:03]  |                                     | 
+[20:08:03]  |=====================================| 
+[20:08:03]  |                                     | 
+[20:08:03]  | Note that these optimisations are   | 
+[20:08:03]  | designed to improve performance     | 
+[20:08:03]  | with the JIT plugin, which you are  | 
+[20:08:03]  | not currently using.  Get it here:  | 
+[20:08:03]  |                                     | 
+[20:08:03]  |      https://git.io/jit-plugin      | 
+[20:08:03]  |                                     | 
+[20:08:03]  ======================================= 
+[20:08:03]  
+[20:08:03]  
+[20:08:03]  
+[20:08:03]  
+[20:08:03]  ======================================= 
+[20:08:03]  |                                     | 
+[20:08:03]  |        YSI version 5.03.0689        | 
+[20:08:03]  |        By Alex "Y_Less" Cole        | 
+[20:08:03]  |                                     | 
+[20:08:03]  ======================================= 
+[20:08:03]  
+[20:08:03] MySQL >> Uspjesno smo se konektovali na SQL server.
+[20:08:03] 
+----------------------------------
+[20:08:03]  >> IME SERVERA : Treasure RolePlay
+[20:08:03]  >> VERZIJA SKRIPTE : T:RP - x0.1
+[20:08:03]  >> DEVELOPER : kaizer
+[20:08:03]  >> FORUM : www.balkanhub.info
+[20:08:03] ----------------------------------
+
+[20:08:03] Number of vehicle models: 0
+[20:08:26] [connection] 127.0.0.1:62067 requests connection cookie.
+[20:08:27] [connection] incoming connection: 127.0.0.1:62067 id: 0
+[20:08:27] [join] kaizer has joined the server (0:127.0.0.1)
+[20:08:40] Admin kaizer je banovao kaizer, razlog: test
+[20:08:41] [part] kaizer has left the server (0:2)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:57:07] filterscripts = ""  (string)
+[20:57:07] 
+[20:57:07] Server Plugins
+[20:57:07] --------------
+[20:57:07]  Loading plugin: crashdetect
+[20:57:07]   CrashDetect plugin 4.19.4
+[20:57:07]   Loaded.
+[20:57:07]  Loading plugin: streamer
+[20:57:07] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[20:57:07]   Loaded.
+[20:57:07]  Loading plugin: sscanf
+[20:57:07] 
+
+[20:57:07]  ===============================
+
+[20:57:07]       sscanf plugin loaded.     
+
+[20:57:07]          Version:  2.8.3        
+
+[20:57:07]   (c) 2018 Alex "Y_Less" Cole  
+
+[20:57:07]  ===============================
+
+[20:57:07]   Loaded.
+[20:57:07]  Loading plugin: pawncmd
+[20:57:07] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[20:57:07]   Loaded.
+[20:57:07]  Loading plugin: mysql
+[20:57:07]  >> plugin.mysql: R41-4 successfully loaded.
+[20:57:07]   Loaded.
+[20:57:07]  Loaded 5 plugins.
+
+[20:57:07] 
+[20:57:07] Filterscripts
+[20:57:07] ---------------
+[20:57:07]   Loaded 0 filterscripts.
+
+[20:57:07]  
+[20:57:07]  ======================================= 
+[20:57:07]  |                                     | 
+[20:57:07]  |    Optimising code, this may take   | 
+[20:57:07]  |        a little bit of time.        | 
+[20:57:07]  |                                     | 
+[20:57:07]  |            Please wait...           | 
+[20:57:07]  |                                     | 
+[20:57:07]  |=====================================| 
+[20:57:07]  |                                     | 
+[20:57:07]  | Note that these optimisations are   | 
+[20:57:07]  | designed to improve performance     | 
+[20:57:07]  | with the JIT plugin, which you are  | 
+[20:57:07]  | not currently using.  Get it here:  | 
+[20:57:07]  |                                     | 
+[20:57:07]  |      https://git.io/jit-plugin      | 
+[20:57:07]  |                                     | 
+[20:57:07]  ======================================= 
+[20:57:07]  
+[20:57:07]  
+[20:57:07]  
+[20:57:07]  
+[20:57:07]  ======================================= 
+[20:57:07]  |                                     | 
+[20:57:07]  |        YSI version 5.03.0689        | 
+[20:57:07]  |        By Alex "Y_Less" Cole        | 
+[20:57:07]  |                                     | 
+[20:57:07]  ======================================= 
+[20:57:07]  
+[20:57:07] MySQL >> Uspjesno smo se konektovali na SQL server.
+[20:57:07] 
+----------------------------------
+[20:57:07]  >> IME SERVERA : Treasure RolePlay
+[20:57:07]  >> VERZIJA SKRIPTE : T:RP - x0.1
+[20:57:07]  >> DEVELOPER : kaizer
+[20:57:07]  >> FORUM : www.balkanhub.info
+[20:57:07] ----------------------------------
+
+[20:57:07] Number of vehicle models: 0
+[20:57:44] [connection] 127.0.0.1:55450 requests connection cookie.
+[20:57:45] [connection] incoming connection: 127.0.0.1:55450 id: 0
+[20:57:45] [join] kaizer has joined the server (0:127.0.0.1)
+[20:58:04] [LOG]: Admin kaizer je banovao kaizer, razlog: test
+[20:58:05] [part] kaizer has left the server (0:2)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:04:30] filterscripts = ""  (string)
+[21:04:30] 
+[21:04:30] Server Plugins
+[21:04:30] --------------
+[21:04:30]  Loading plugin: crashdetect
+[21:04:30]   CrashDetect plugin 4.19.4
+[21:04:30]   Loaded.
+[21:04:30]  Loading plugin: streamer
+[21:04:30] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[21:04:30]   Loaded.
+[21:04:30]  Loading plugin: sscanf
+[21:04:30] 
+
+[21:04:30]  ===============================
+
+[21:04:30]       sscanf plugin loaded.     
+
+[21:04:30]          Version:  2.8.3        
+
+[21:04:30]   (c) 2018 Alex "Y_Less" Cole  
+
+[21:04:30]  ===============================
+
+[21:04:30]   Loaded.
+[21:04:30]  Loading plugin: pawncmd
+[21:04:30] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[21:04:30]   Loaded.
+[21:04:30]  Loading plugin: mysql
+[21:04:30]  >> plugin.mysql: R41-4 successfully loaded.
+[21:04:30]   Loaded.
+[21:04:30]  Loaded 5 plugins.
+
+[21:04:30] 
+[21:04:30] Filterscripts
+[21:04:30] ---------------
+[21:04:30]   Loaded 0 filterscripts.
+
+[21:04:30]  
+[21:04:30]  ======================================= 
+[21:04:30]  |                                     | 
+[21:04:30]  |    Optimising code, this may take   | 
+[21:04:30]  |        a little bit of time.        | 
+[21:04:30]  |                                     | 
+[21:04:30]  |            Please wait...           | 
+[21:04:30]  |                                     | 
+[21:04:30]  |=====================================| 
+[21:04:30]  |                                     | 
+[21:04:30]  | Note that these optimisations are   | 
+[21:04:30]  | designed to improve performance     | 
+[21:04:30]  | with the JIT plugin, which you are  | 
+[21:04:30]  | not currently using.  Get it here:  | 
+[21:04:30]  |                                     | 
+[21:04:30]  |      https://git.io/jit-plugin      | 
+[21:04:30]  |                                     | 
+[21:04:30]  ======================================= 
+[21:04:30]  
+[21:04:30]  
+[21:04:30]  
+[21:04:30]  
+[21:04:30]  ======================================= 
+[21:04:30]  |                                     | 
+[21:04:30]  |        YSI version 5.03.0689        | 
+[21:04:30]  |        By Alex "Y_Less" Cole        | 
+[21:04:30]  |                                     | 
+[21:04:30]  ======================================= 
+[21:04:30]  
+[21:04:30] MySQL >> Uspjesno smo se konektovali na SQL server.
+[21:04:30] 
+----------------------------------
+[21:04:30]  >> IME SERVERA : Treasure RolePlay
+[21:04:30]  >> VERZIJA SKRIPTE : T:RP - x0.1
+[21:04:30]  >> DEVELOPER : kaizer
+[21:04:30]  >> FORUM : www.balkanhub.info
+[21:04:30] ----------------------------------
+
+[21:04:30] Number of vehicle models: 0
+[21:05:34] [connection] 127.0.0.1:57946 requests connection cookie.
+[21:05:35] [connection] incoming connection: 127.0.0.1:57946 id: 0
+[21:05:35] [join] kaizer has joined the server (0:127.0.0.1)
+[21:05:46] [LOG]: Admin kaizer je banovao kaizer, razlog: test
+[21:05:47] [part] kaizer has left the server (0:2)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:06:05] filterscripts = ""  (string)
+[21:06:05] 
+[21:06:05] Server Plugins
+[21:06:05] --------------
+[21:06:05]  Loading plugin: crashdetect
+[21:06:05]   CrashDetect plugin 4.19.4
+[21:06:05]   Loaded.
+[21:06:05]  Loading plugin: streamer
+[21:06:05] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[21:06:05]   Loaded.
+[21:06:05]  Loading plugin: sscanf
+[21:06:05] 
+
+[21:06:05]  ===============================
+
+[21:06:05]       sscanf plugin loaded.     
+
+[21:06:05]          Version:  2.8.3        
+
+[21:06:05]   (c) 2018 Alex "Y_Less" Cole  
+
+[21:06:05]  ===============================
+
+[21:06:05]   Loaded.
+[21:06:05]  Loading plugin: pawncmd
+[21:06:05] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[21:06:05]   Loaded.
+[21:06:05]  Loading plugin: mysql
+[21:06:05]  >> plugin.mysql: R41-4 successfully loaded.
+[21:06:05]   Loaded.
+[21:06:05]  Loaded 5 plugins.
+
+[21:06:05] 
+[21:06:05] Filterscripts
+[21:06:05] ---------------
+[21:06:05]   Loaded 0 filterscripts.
+
+[21:06:05]  
+[21:06:05]  ======================================= 
+[21:06:05]  |                                     | 
+[21:06:05]  |    Optimising code, this may take   | 
+[21:06:05]  |        a little bit of time.        | 
+[21:06:05]  |                                     | 
+[21:06:05]  |            Please wait...           | 
+[21:06:05]  |                                     | 
+[21:06:05]  |=====================================| 
+[21:06:05]  |                                     | 
+[21:06:05]  | Note that these optimisations are   | 
+[21:06:05]  | designed to improve performance     | 
+[21:06:05]  | with the JIT plugin, which you are  | 
+[21:06:05]  | not currently using.  Get it here:  | 
+[21:06:05]  |                                     | 
+[21:06:05]  |      https://git.io/jit-plugin      | 
+[21:06:05]  |                                     | 
+[21:06:05]  ======================================= 
+[21:06:05]  
+[21:06:06]  
+[21:06:06]  
+[21:06:06]  
+[21:06:06]  ======================================= 
+[21:06:06]  |                                     | 
+[21:06:06]  |        YSI version 5.03.0689        | 
+[21:06:06]  |        By Alex "Y_Less" Cole        | 
+[21:06:06]  |                                     | 
+[21:06:06]  ======================================= 
+[21:06:06]  
+[21:06:06] MySQL >> Uspjesno smo se konektovali na SQL server.
+[21:06:06] 
+----------------------------------
+[21:06:06]  >> IME SERVERA : Treasure RolePlay
+[21:06:06]  >> VERZIJA SKRIPTE : T:RP - x0.1
+[21:06:06]  >> DEVELOPER : kaizer
+[21:06:06]  >> FORUM : www.balkanhub.info
+[21:06:06] ----------------------------------
+
+[21:06:06] Number of vehicle models: 0
+[21:06:37] [connection] 127.0.0.1:58095 requests connection cookie.
+[21:06:38] [connection] incoming connection: 127.0.0.1:58095 id: 0
+[21:06:38] [join] kaizer has joined the server (0:127.0.0.1)
+[21:06:39] [part] kaizer has left the server (0:2)
+[21:07:15] [connection] 127.0.0.1:59516 requests connection cookie.
+[21:07:16] [connection] incoming connection: 127.0.0.1:59516 id: 0
+[21:07:16] [join] kaizer has joined the server (0:127.0.0.1)
+[21:07:17] [part] kaizer has left the server (0:2)
+[21:08:10] [connection] 127.0.0.1:62528 requests connection cookie.
+[21:08:11] [connection] incoming connection: 127.0.0.1:62528 id: 0
+[21:08:11] [join] kaizer has joined the server (0:127.0.0.1)
+[21:08:23] [LOG]: Admin kaizer je banovao IP kaizer, razlog: test
+[21:08:24] [part] kaizer has left the server (0:2)
