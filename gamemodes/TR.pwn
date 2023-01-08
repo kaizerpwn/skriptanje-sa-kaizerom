@@ -20,10 +20,10 @@ Popraviti bugove
 #include < 		sscanf2				>
 #include < 		Pawn.CMD 			>
 //********************* MY INCLUDES *********************//
-#include "moduls/globaltds.pwn"
-#include "moduls/playertds.pwn"
-#include "moduls/maps.pwn"
-#include "moduls/variables.pwn"
+#include "modules/globaltds.pwn"
+#include "modules/playertds.pwn"
+#include "modules/maps.pwn"
+#include "modules/variables.pwn"
 //******************************************************//
 #define IME_SERVERA 	"Treasure RolePlay"
 #define VERZIJA_SKRIPTE	"T:RP - x0.1"
