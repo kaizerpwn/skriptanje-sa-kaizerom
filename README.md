@@ -28,36 +28,21 @@ Happy Pawning!
 
 ## Installation
 
-Simply install to your project:
+Simply installation process:
 
 ```bash
-sampctl package install skriptanje-sa-kaizerom/skriptanje-sa-kaizerom
-```
+git clone https://github.com/kaizerpwn/skriptanje-sa-kaizerom.git
+``` 
 
-Include in your code and begin using the library:
-
-```pawn
-#include <skriptanje-sa-kaizerom>
-```
-
-## Usage
-
-<!--
-Write your code documentation or examples here. If your library is documented in
-the source code, direct users there. If not, list your API and describe it well
-in this section. If your library is passive and has no API, simply omit this
-section.
--->
-
-## Testing
-
-<!--
-Depending on whether your package is tested via in-game "demo tests" or
-y_testing unit-tests, you should indicate to readers what to expect below here.
--->
-
-To test, simply run the package:
-
+To ensure dependencies:
 ```bash
-sampctl package run
+sampctl ensure
+```
+Build gamemode:
+```bash
+sampctl build
+```
+Run gamemode using samp-server.exe or :
+```bash
+sampctl run
 ```
