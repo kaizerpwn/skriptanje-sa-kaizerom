@@ -15,15 +15,15 @@ Popraviti bugove
 //********************* OFFICIAL INCLUDE *********************//
 #include <		streamer 			>
 #include < 		YSI_Data\y_iterate 	>
-#include < 		YSI_Coding\y_va 	>
-#include < 		foreach 			>
+#include < 		YSI_Coding\y_va 	> 
 #include < 		sscanf2				>
 #include < 		Pawn.CMD 			>
+#include < 		GPS	 				>
 //********************* MY INCLUDES *********************//
-#include "modules/globaltds.pwn"
-#include "modules/playertds.pwn"
-#include "modules/maps.pwn"
-#include "modules/variables.pwn"
+#include "modules\globaltds.pwn"
+#include "modules\playertds.pwn"
+#include "modules\maps.pwn"
+#include "modules\variables.pwn"
 //******************************************************//
 #define IME_SERVERA 	"Treasure RolePlay"
 #define VERZIJA_SKRIPTE	"T:RP - x0.1"
@@ -34,9 +34,7 @@ Popraviti bugove
 #define MYSQL_USER 		"root"
 #define MYSQL_PASS		""
 #define MYSQL_DB 		"treasure-rp"
-
-#define SCM 			SendClientMessage 
-#define SCMTA 			SendClientMessageToAll 
+ 
 //************************ BOJE *************************//
 #define bijela_boja     0xFFFFFFAA
 #define proxy_boja      0xC2A2DAAA 
@@ -180,7 +178,7 @@ public OnPlayerText(playerid, text[]){
 
 cmd:me(playerid, params[]){
 	new text[80];
-	if(sscanf(params, "s[80]", text)) return SCM(playerid, -1,"{FF0000}USAGE: {FFFFFF}/me [Text]");
+	if(sscanf(params, "s[80]", text)) return SendClientMessage(playerid, -1,"{FF0000}USAGE: {FFFFFF}/me [Text]");
 	new string[256];
  	format(string,sizeof(string), "* %s %s",GetName(playerid), text);
  	ProxDetector(20.0, playerid, string, proxy_boja,proxy_boja,proxy_boja,proxy_boja,proxy_boja);
@@ -188,7 +186,7 @@ cmd:me(playerid, params[]){
 }
 cmd:do(playerid, params[]){
 	new text[80];
-	if(sscanf(params, "s[80]", text)) return SCM(playerid, -1,"{FF0000}USAGE: {FFFFFF}/do [Text]");
+	if(sscanf(params, "s[80]", text)) return SendClientMessage(playerid, -1,"{FF0000}USAGE: {FFFFFF}/do [Text]");
 	new string[256];
  	format(string,sizeof(string), "* %s (( %s ))",GetName(playerid), text);
  	ProxDetector(20.0, playerid, string, proxy_boja,proxy_boja,proxy_boja,proxy_boja,proxy_boja);
@@ -196,15 +194,15 @@ cmd:do(playerid, params[]){
 }
 cmd:b(playerid, params[]){
 	new text[80];
-	if(sscanf(params, "s[80]", text)) return SCM(playerid, -1,"{FF0000}USAGE: {FFFFFF}/b [Text]");
+	if(sscanf(params, "s[80]", text)) return SendClientMessage(playerid, -1,"{FF0000}USAGE: {FFFFFF}/b [Text]");
 	new string[256];
  	format(string,sizeof(string), "{C0C0C0}(( [OOC] {FFFFFF}%s kaze : %s {C0C0C0}))",GetName(playerid), text);
  	ProxDetector(20.0, playerid, string, proxy_boja,proxy_boja,proxy_boja,proxy_boja,proxy_boja);
 	return 1;
 }
 cmd:aduty(playerid) {
-	if(IgracUlogovan[playerid] == false) return SCM(playerid, -1,""CRVENA"ERROR: "BIJELA"Niste ulogovani !");
-	if(IgracInfo[playerid][Admin] == 0) return SCM(playerid, -1,""CRVENA"ERROR: "BIJELA"Niste ovlasteni !");
+	if(IgracUlogovan[playerid] == false) return SendClientMessage(playerid, -1,""CRVENA"ERROR: "BIJELA"Niste ulogovani !");
+	if(IgracInfo[playerid][Admin] == 0) return SendClientMessage(playerid, -1,""CRVENA"ERROR: "BIJELA"Niste ovlasteni !");
 	if(AdminDuty[playerid] == 0) {
 		AdminDuty[playerid] = 1;
 		SetPlayerHealth(playerid, 99999);
@@ -220,14 +218,14 @@ cmd:aduty(playerid) {
 	}
 	return true;
 }
-alias:aduty("aon","adminduty");
+alias:aduty("aon","adminduty")
 
 cmd:kick(playerid,params[]) {
-	if(IgracUlogovan[playerid] == false) return SCM(playerid, -1,""CRVENA"ERROR: "BIJELA"Niste ulogovani !");
-	if(IgracInfo[playerid][Admin] == 0) return SCM(playerid, -1,""CRVENA"ERROR: "BIJELA"Niste ovlasteni !");
-	if(AdminDuty[playerid] == 0) return SCM(playerid, -1,""CRVENA"ERROR: "BIJELA"Niste na duznosti "CRVENA"(/aduty)"BIJELA" !");
+	if(IgracUlogovan[playerid] == false) return SendClientMessage(playerid, -1,""CRVENA"ERROR: "BIJELA"Niste ulogovani !");
+	if(IgracInfo[playerid][Admin] == 0) return SendClientMessage(playerid, -1,""CRVENA"ERROR: "BIJELA"Niste ovlasteni !");
+	if(AdminDuty[playerid] == 0) return SendClientMessage(playerid, -1,""CRVENA"ERROR: "BIJELA"Niste na duznosti "CRVENA"(/aduty)"BIJELA" !");
 	new ID,RAZLOG[12];
-	if(sscanf(params,"ds[12]",ID,RAZLOG)) return SCM(playerid, -1,""CRVENA"KORISTI: "BIJELA"/KICK [ID] [RAZLOG]");
+	if(sscanf(params,"ds[12]",ID,RAZLOG)) return SendClientMessage(playerid, -1,""CRVENA"KORISTI: "BIJELA"/KICK [ID] [RAZLOG]");
 	printf("[LOG]: Admin %s je kikovao %s, razlog: %s",GetName(playerid),GetName(ID),RAZLOG);
 	va_SendClientMessageToAll(-1,""CRVENA"TREASURE-RP: "BIJELA"%s je kikovao %s, razlog: "CRVENA"%s",GetName(playerid),GetName(ID),RAZLOG);
 	va_SendClientMessage(playerid, -1,""CRVENA"KICK: "BIJELA"Izbacili ste %s sa servera zbog :"CRVENA" %s",GetName(ID),RAZLOG);
@@ -235,11 +233,11 @@ cmd:kick(playerid,params[]) {
 	return true;
 }
 cmd:ban(playerid,params[]) {
-	if(IgracUlogovan[playerid] == false) return SCM(playerid, -1,""CRVENA"ERROR: "BIJELA"Niste ulogovani !");
-	if(IgracInfo[playerid][Admin] == 0) return SCM(playerid, -1,""CRVENA"ERROR: "BIJELA"Niste ovlasteni !");
-	if(AdminDuty[playerid] == 0) return SCM(playerid, -1,""CRVENA"ERROR: "BIJELA"Niste na duznosti "CRVENA"(/aduty)"BIJELA" !");
+	if(IgracUlogovan[playerid] == false) return SendClientMessage(playerid, -1,""CRVENA"ERROR: "BIJELA"Niste ulogovani !");
+	if(IgracInfo[playerid][Admin] == 0) return SendClientMessage(playerid, -1,""CRVENA"ERROR: "BIJELA"Niste ovlasteni !");
+	if(AdminDuty[playerid] == 0) return SendClientMessage(playerid, -1,""CRVENA"ERROR: "BIJELA"Niste na duznosti "CRVENA"(/aduty)"BIJELA" !");
 	new ID,RAZLOG[12];
-	if(sscanf(params,"ds[12]",ID,RAZLOG)) return SCM(playerid, -1,""CRVENA"KORISTI: "BIJELA"/BAN [ID] [RAZLOG]");
+	if(sscanf(params,"ds[12]",ID,RAZLOG)) return SendClientMessage(playerid, -1,""CRVENA"KORISTI: "BIJELA"/BAN [ID] [RAZLOG]");
 	printf("[LOG]: Admin %s je banovao %s, razlog: %s",GetName(playerid),GetName(ID),RAZLOG);
 	va_SendClientMessageToAll(-1,""CRVENA"TREASURE-RP: "BIJELA"%s je banovao %s, razlog: "CRVENA"%s",GetName(playerid),GetName(ID),RAZLOG);
 	va_SendClientMessage(playerid, -1,""CRVENA"BAN: "BIJELA"Banovali ste %s sa servera zbog :"CRVENA" %s",GetName(ID),RAZLOG);
@@ -253,11 +251,11 @@ cmd:ban(playerid,params[]) {
 	return true;
 }
 cmd:banip(playerid,params[]) {
-	if(IgracUlogovan[playerid] == false) return SCM(playerid, -1,""CRVENA"ERROR: "BIJELA"Niste ulogovani !");
-	if(IgracInfo[playerid][Admin] == 0) return SCM(playerid, -1,""CRVENA"ERROR: "BIJELA"Niste ovlasteni !");
-	if(AdminDuty[playerid] == 0) return SCM(playerid, -1,""CRVENA"ERROR: "BIJELA"Niste na duznosti "CRVENA"(/aduty)"BIJELA" !");
+	if(IgracUlogovan[playerid] == false) return SendClientMessage(playerid, -1,""CRVENA"ERROR: "BIJELA"Niste ulogovani !");
+	if(IgracInfo[playerid][Admin] == 0) return SendClientMessage(playerid, -1,""CRVENA"ERROR: "BIJELA"Niste ovlasteni !");
+	if(AdminDuty[playerid] == 0) return SendClientMessage(playerid, -1,""CRVENA"ERROR: "BIJELA"Niste na duznosti "CRVENA"(/aduty)"BIJELA" !");
 	new ID,RAZLOG[12];
-	if(sscanf(params,"ds[12]",ID,RAZLOG)) return SCM(playerid, -1,""CRVENA"KORISTI: "BIJELA"/BANIP [ID] [RAZLOG]");
+	if(sscanf(params,"ds[12]",ID,RAZLOG)) return SendClientMessage(playerid, -1,""CRVENA"KORISTI: "BIJELA"/BANIP [ID] [RAZLOG]");
 	printf("[LOG]: Admin %s je banovao IP %s, razlog: %s",GetName(playerid),GetName(ID),RAZLOG);
 	va_SendClientMessageToAll(-1,""CRVENA"TREASURE-RP: "BIJELA"%s je banovao %s, razlog: "CRVENA"%s",GetName(playerid),GetName(ID),RAZLOG);
 	va_SendClientMessage(playerid, -1,""CRVENA"BAN|IP: "BIJELA"Banovali ste %s sa servera zbog :"CRVENA" %s",GetName(ID),RAZLOG);
@@ -272,11 +270,11 @@ cmd:banip(playerid,params[]) {
 	return true;
 }
 cmd:unban(playerid,params[]) {
-	if(IgracUlogovan[playerid] == false) return SCM(playerid, -1,""CRVENA"ERROR: "BIJELA"Niste ulogovani !");
-	if(IgracInfo[playerid][Admin] == 0) return SCM(playerid, -1,""CRVENA"ERROR: "BIJELA"Niste ovlasteni !");
-	if(AdminDuty[playerid] == 0) return SCM(playerid, -1,""CRVENA"ERROR: "BIJELA"Niste na duznosti "CRVENA"(/aduty)"BIJELA" !");
+	if(IgracUlogovan[playerid] == false) return SendClientMessage(playerid, -1,""CRVENA"ERROR: "BIJELA"Niste ulogovani !");
+	if(IgracInfo[playerid][Admin] == 0) return SendClientMessage(playerid, -1,""CRVENA"ERROR: "BIJELA"Niste ovlasteni !");
+	if(AdminDuty[playerid] == 0) return SendClientMessage(playerid, -1,""CRVENA"ERROR: "BIJELA"Niste na duznosti "CRVENA"(/aduty)"BIJELA" !");
 	new IME_IGRACA[MAX_PLAYER_NAME];
-	if(sscanf(params,"s[25]",IME_IGRACA)) return SCM(playerid, -1,""CRVENA"KORISTI: "BIJELA"/UNBAN [IME_IGRACA]"); 
+	if(sscanf(params,"s[25]",IME_IGRACA)) return SendClientMessage(playerid, -1,""CRVENA"KORISTI: "BIJELA"/UNBAN [IME_IGRACA]"); 
 	new query[100]; 
 	mysql_format(SQL, query,sizeof query,"SELECT * FROM bans WHERE IGRAC='%e'", IME_IGRACA);
 	mysql_tquery(SQL, query,"ProvjeriUNBAN","is",playerid, IME_IGRACA); 
@@ -419,7 +417,7 @@ public OnDialogResponse(playerid, dialogid, response, listitem, inputtext[]){
 		if(!response) return Kick(playerid);
 		if(strlen(inputtext) <= 5 || strlen(inputtext) > 60)
 		{
-			SCM(playerid, -1,""CRVENA"GRESKA : "BIJELA"Vas password mora imati najmanje 6 karaktera i ne smije biti preko 60 karaktera !");
+			SendClientMessage(playerid, -1,""CRVENA"GRESKA : "BIJELA"Vas password mora imati najmanje 6 karaktera i ne smije biti preko 60 karaktera !");
 			new string[256];
 		    format(string,sizeof(string),"Korisnicki racun %s nije pronadjen, upisite lozinku koju zelite koristiti", GetName(playerid));
 		    ShowPlayerDialog(playerid,DIALOG_REGISTRACIJA, DIALOG_STYLE_PASSWORD, "TREASURE RP", string, "Registruj se", "Izlaz");
@@ -427,7 +425,7 @@ public OnDialogResponse(playerid, dialogid, response, listitem, inputtext[]){
 		else {
 			CancelSelectTextDraw(playerid);
 			IgracInfo[playerid][Password] = udb_hash(inputtext);
-			SCM(playerid, -1,""CRVENA"TREASURE: "BIJELA" Uspjesno ste se registrovali na nas server, uzivajte igrajuci !");
+			SendClientMessage(playerid, -1,""CRVENA"TREASURE: "BIJELA" Uspjesno ste se registrovali na nas server, uzivajte igrajuci !");
 			//**************************************************************************************************************//
 			new query[500];
 			mysql_format(SQL, query,sizeof(query),"INSERT INTO `players` (`Username`,`Password`,`Skin`,`Level`,`Novac`) \
@@ -442,7 +440,7 @@ public OnDialogResponse(playerid, dialogid, response, listitem, inputtext[]){
 		if(!response) return Kick(playerid);
 		if(response) {
 			if(udb_hash(inputtext) == IgracInfo[playerid][Password]) {
-				if(IgracUlogovan[playerid] == true) return SCM(playerid, -1,""CRVENA"ERROR: "BIJELA"Vi ste vec ulogovani !");
+				if(IgracUlogovan[playerid] == true) return SendClientMessage(playerid, -1,""CRVENA"ERROR: "BIJELA"Vi ste vec ulogovani !");
 				CancelSelectTextDraw(playerid);
 				TogglePlayerSpectating(playerid, false);
 				SetPlayerScore(playerid, 	IgracInfo[playerid][Level]);
@@ -457,7 +455,7 @@ public OnDialogResponse(playerid, dialogid, response, listitem, inputtext[]){
 				SetCameraBehindPlayer(playerid);
 			}
 			else {
-				SCM(playerid, -1,""CRVENA"GRESKA : "BIJELA"Vas password nije tacan !");
+				SendClientMessage(playerid, -1,""CRVENA"GRESKA : "BIJELA"Vas password nije tacan !");
 				new string[256];
 			    format(string,sizeof(string),"Korisnicki racun %s je pronadjen, upisite lozinku koju ste koristili", GetName(playerid));
 			    ShowPlayerDialog(playerid,DIALOG_LOGIN, DIALOG_STYLE_PASSWORD, "TREASURE RP", string, "Uloguj se", "Izlaz");
@@ -508,7 +506,7 @@ SacuvajNalog(playerid) {
 } 
 forward IgracRegistrovan(playerid);
 public IgracRegistrovan(playerid) {
-	if(IgracUlogovan[playerid] == true) return SCM(playerid, -1,""CRVENA"GRESKA : "BIJELA"Vi ste vec ulogovani !");
+	if(IgracUlogovan[playerid] == true) return SendClientMessage(playerid, -1,""CRVENA"GRESKA : "BIJELA"Vi ste vec ulogovani !");
 	IgracInfo[playerid][Skin] = 60; IgracInfo[playerid][SQLID]  =  cache_insert_id();
 	IgracInfo[playerid][Level] = 1;
 	IgracInfo[playerid][Novac] = 2000;
@@ -556,7 +554,7 @@ public SQL_ProvjeraAccounta(playerid) {
 forward OcistiChat(playerid, brojlinija);
 public OcistiChat(playerid, brojlinija){
 	for(new i=0; i<brojlinija; i++){
-		SCM(playerid,-1," ");
+		SendClientMessage(playerid,-1," ");
 	}
 }
 forward ProxDetector(Float:radi, playerid, string[],col1,col2,col3,col4,col5);
@@ -574,19 +572,19 @@ public ProxDetector(Float:radi, playerid, string[],col1,col2,col3,col4,col5){
                     tempposy = (oldposy -posy);
                     tempposz = (oldposz -posz);
                     if (((tempposx < radi/16) && (tempposx > -radi/16)) && ((tempposy < radi/16) && (tempposy > -radi/16)) && ((tempposz < radi/16) && (tempposz > -radi/16))){
-                        SCM(i, col1, string);
+                        SendClientMessage(i, col1, string);
                     }
                     else if (((tempposx < radi/8) && (tempposx > -radi/8)) && ((tempposy < radi/8) && (tempposy > -radi/8)) && ((tempposz < radi/8) && (tempposz > -radi/8))){
-                        SCM(i, col2, string);
+                        SendClientMessage(i, col2, string);
                     }
                     else if (((tempposx < radi/4) && (tempposx > -radi/4)) && ((tempposy < radi/4) && (tempposy > -radi/4)) && ((tempposz < radi/4) && (tempposz > -radi/4))){
-                        SCM(i, col3, string);
+                        SendClientMessage(i, col3, string);
                     }
                     else if (((tempposx < radi/2) && (tempposx > -radi/2)) && ((tempposy < radi/2) && (tempposy > -radi/2)) && ((tempposz < radi/2) && (tempposz > -radi/2))){
-                        SCM(i, col4, string);
+                        SendClientMessage(i, col4, string);
                     }
                     else if (((tempposx < radi) && (tempposx > -radi)) && ((tempposy < radi) && (tempposy > -radi)) && ((tempposz < radi) && (tempposz > -radi))){
-                        SCM(i, col5, string);
+                        SendClientMessage(i, col5, string);
                     }
             }   }
         }

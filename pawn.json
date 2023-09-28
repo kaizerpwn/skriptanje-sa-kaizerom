@@ -1,0 +1,49 @@
+{
+	"user": "skriptanje-sa-kaizerom",
+	"repo": "skriptanje-sa-kaizerom",
+	"tag": "0.0.1",
+	"entry": "gamemodes\\TR.pwn",
+	"output": "gamemodes\\TR.amx",
+	"dependencies": [
+		"pawn-lang/samp-stdlib",
+		"pawn-lang/YSI-Includes",
+		"samp-incognito/samp-streamer-plugin",
+		"Y-Less/sscanf",
+		"katursis/Pawn.CMD:3.4.0",
+		"pBlueG/SA-MP-MySQL"
+	],
+	"local": true,
+	"builds": [
+		{
+			"name": "dev",
+			"args": [
+				"-d3",
+				"-Dgamemodes",
+				"-Z+",
+				"-;+",
+				"-(+"
+			],
+			"includes": [
+				"legacy/"
+			],
+			"compiler": {
+				"version": "3.10.10"
+			}
+		}
+	],
+	"runtime": {
+		"port": 7777,
+		"hostname": "Treasure Roleplay",
+		"filterscripts": [],
+		"plugins": [],
+		"language": "Ex-Yu",
+		"maxplayers": 315,
+		"maxnpc": 5,
+		"mapname": "San Andreas",
+		"rcon_password": "kaizer",
+		"weburl": "www.kaizer.live",
+		"extra": {
+			"gamemode0": "TR 1"
+		}
+	}
+}
